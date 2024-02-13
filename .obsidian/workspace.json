@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md"
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md"
               }
             }
           }
@@ -172,10 +171,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "47f4f20a8155e210",
+  "active": "c1f5ab37dfed81bb",
   "lastOpenFiles": [
-    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
     "Pasted image 20240213184124.png",
     "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
     "DnD/Aetheria/Bienvenido a Aetheria.md",
