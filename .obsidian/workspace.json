@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e0bde191463bc4ab",
+        "id": "bc463082914e5055",
         "type": "tabs",
         "children": [
           {
-            "id": "530445c685d30e3a",
+            "id": "c1f5ab37dfed81bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Aetheria/Bienvenido a Aetheria.md",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47f4f20a8155e210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac43add917d1605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "81ed51e5738e06d3",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Aetheria/Bienvenido a Aetheria.md",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Aetheria/Bienvenido a Aetheria.md",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Aetheria/Bienvenido a Aetheria.md"
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md"
               }
             }
           }
@@ -147,20 +172,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8ef2f8428c317bc1",
+  "active": "47f4f20a8155e210",
   "lastOpenFiles": [
-    "DnD/Campañas/Reedme.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+    "Pasted image 20240213184124.png",
+    "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
     "DnD/Aetheria/Bienvenido a Aetheria.md",
+    "DnD/Campañas/Reedme.md",
     "DnD/Aetheria/Razas/Changeling.md",
     "DnD/Aetheria",
     "DnD/Campañas",
     "Eliminar.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
     "DnD/Hombrew/Hechizos/Mantle.md",
     "DnD/Hombrew/Hechizos/Empathy.md",
     "DnD/Hombrew/Clase_Caballero Radiante",
@@ -184,7 +210,6 @@
     "DnD/Aetheria/Razas/Firbolg.md",
     "DnD/Aetheria/Razas/Elfos.md",
     "DnD/Aetheria/Razas/Duregard.md",
-    "DnD/Aetheria/Razas/Drows.md",
     "DnD/Aetheria/Razas",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/town boy.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Pupet master.jpg",
@@ -194,7 +219,6 @@
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Jefe de la guarda.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Gemologist.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Ciber noble.jpg",
-    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Alta mujer.jpg",
-    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Automat noble.jpg"
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Alta mujer.jpg"
   ]
 }
