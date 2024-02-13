@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "08c5ebf34f257160",
+    "id": "9d00eb87a6d571cd",
     "type": "split",
     "children": [
       {
-        "id": "80c0ac1454b1387f",
+        "id": "e0bde191463bc4ab",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff93a5ddb4e4604",
+            "id": "530445c685d30e3a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "010dbf4c5b8e840d",
+    "id": "b120d43306618599",
     "type": "split",
     "children": [
       {
-        "id": "f7467a82815b87c5",
+        "id": "47b87bb9223d78cb",
         "type": "tabs",
         "children": [
           {
-            "id": "8f28a46a2e8d138d",
+            "id": "8ef2f8428c317bc1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "b299cc07e4366d3c",
+            "id": "b414b61dda5fc6f7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "d2794e034df58459",
+            "id": "e280d8f908dd1537",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "e640d3b7641367d1",
+    "id": "81ed51e5738e06d3",
     "type": "split",
     "children": [
       {
-        "id": "4512b742030cb522",
+        "id": "00a308f12367a996",
         "type": "tabs",
         "children": [
           {
-            "id": "2de00832a5416270",
+            "id": "ebbd5617c18b17f9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "de835ab77cede1dd",
+            "id": "2e632493f597a9d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "9e5429fc87ce780a",
+            "id": "fc625942bc824e66",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +114,13 @@
             }
           },
           {
-            "id": "95fec95279ee8625",
+            "id": "28892a4d97294562",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DnD/Aetheria/Razas/Changeling.md"
+              }
             }
           }
         ]
@@ -135,9 +137,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7ff93a5ddb4e4604",
-  "lastOpenFiles": []
+  "active": "8ef2f8428c317bc1",
+  "lastOpenFiles": [
+    "DnD/Campañas/Aetheria",
+    "DnD/Campañas",
+    "Eliminar.md",
+    "DnD/Hombrew/Clases/Caballero Radiante/Tabla.md",
+    "DnD/Hombrew/Clases/Caballero Radiante/Sprens, su aspecto y comportamiento.md",
+    "DnD/Hombrew/Clases/Caballero Radiante/Potencias.md",
+    "DnD/Hombrew/Clases/Caballero Radiante/Ordenes.md",
+    "DnD/Hombrew/Clases/Caballero Radiante/Ideales.md",
+    "DnD/Hombrew/Clases/Caballero Radiante/Clase.md",
+    "DnD/Hombrew/Hechizos/Mantle.md",
+    "DnD/Hombrew/Hechizos/Empathy.md",
+    "DnD/Hombrew/Clases/Caballero Radiante",
+    "DnD/Hombrew/Hechizos",
+    "DnD/Hombrew/Clases",
+    "DnD/Hombrew",
+    "DnD/Aetheria/Regiones/Trildenclib/Erindor/Kharbranth.md",
+    "DnD/Aetheria/Regiones/Trildenclib/Erindor/Kaltara.md",
+    "DnD/Aetheria/Regiones/Trildenclib/Erindor/Kaltara y su gente.canvas",
+    "DnD/Aetheria/Regiones/Trildenclib/Erindor.md",
+    "DnD/Aetheria/Regiones/Trildenclib/Erindor",
+    "DnD/Aetheria/Regiones/Trildenclib",
+    "DnD/Aetheria/Regiones",
+    "DnD/Aetheria/Razas/Tiefling.md",
+    "DnD/Aetheria/Razas/Montri.md",
+    "DnD/Aetheria/Razas/Medio elfo.md",
+    "DnD/Aetheria/Razas/Lizard folk.md",
+    "DnD/Aetheria/Razas/Leafolks.md",
+    "DnD/Aetheria/Razas/Humanos.md",
+    "DnD/Aetheria/Razas/Goblins.md",
+    "DnD/Aetheria/Razas/Firbolg.md",
+    "DnD/Aetheria/Razas/Elfos.md",
+    "DnD/Aetheria/Razas/Duregard.md",
+    "DnD/Aetheria/Razas/Drows.md",
+    "DnD/Aetheria/Razas/Changeling.md",
+    "DnD/Aetheria/Razas",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/town boy.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Pupet master.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Potion brewer.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Noble mujer.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Kholin guards.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Jefe de la guarda.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Gemologist.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Ciber noble.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Alta mujer.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Automat noble.jpg",
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara",
+    "DnD/Aetheria/Hechizos homebrew/Mantle.md"
+  ]
 }
