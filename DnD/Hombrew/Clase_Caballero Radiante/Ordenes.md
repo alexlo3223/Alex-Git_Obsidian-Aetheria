@@ -50,7 +50,7 @@ Tras el primer ideal, progresan diciendo verdades. Secretos que los Tejedores de
 A 3º nivel, obtienes el primer rasgo de la potencia de iluminación y transformación.
 
 **Mentiroso compulsivo**
-A 3º nivel, obtienes acceso a la lista de conjuros de la clase bardo con los spell slots siguientes: #Acabar 
+A 3º nivel, obtienes acceso a la lista de conjuros del tipo ilusión y encantar con los spell slots siguientes: #Acabar 
 
 **Mente mejorada**
 A 7º nivel,  la mente de un Tejedor de Luz ha mejorado, otorgándole los siguientes rasgos. Ahora recuerda perfectamente todo lo que ha visto y oído en la ultima semana.
@@ -79,7 +79,7 @@ Los Ideales de la Orden de los Nominadores de lo Otro se centran en progresar co
 A 3º nivel, obtienes el primer rasgo de la potencia de transporte y transformación.
 
 **Titulo**
-A 3º nivel, obtienes acceso a la lista de conjuros de conjuración y evocación, con los spell slots de indicados: #Acabar 
+A 3º nivel, obtienes acceso a la lista de conjuros de conjuración y evocación, con los spell slots indicados: #Acabar 
 
 **Transformar terreno**
 A 7º nivel, puedes utilizar ambas potencias para modificar el terreno en un área de 20 pies por uno que ya conoces.
