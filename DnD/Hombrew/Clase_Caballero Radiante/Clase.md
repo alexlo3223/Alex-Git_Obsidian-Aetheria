@@ -63,7 +63,7 @@ Si tienes menos de los puntos requeridos en la tabla en tu reserva, no se drenan
 Como acción, puedes imbuir cualquier número de puntos de Luz de Tormenta en una gema, incluyendo tu gema de Luz de Tormenta. Si se trata de una gema normal, la gema emite luz brillante en 5 pies y luz tenue en 15 pies adicionales. 
 
 **Exhausto de luz**
-En el caso que hayas consumido (numero por concretar) en un lapso de (lapso por concretar), te sentirás exhausto y débil ya que tu cuerpo no puede seguir el ritmo de la luz tormentosa.
+En el caso que hayas consumido 4/5 de luz tormentosa en un lapso de 3 horas, te sentirás exhausto y débil ya que tu cuerpo no puede seguir el ritmo de la luz tormentosa.
 
 En el momento que se gaste la reserva de luz tormentosa y haya pasado ese lapso, obtienes 2 puntos de exhausto.
 
