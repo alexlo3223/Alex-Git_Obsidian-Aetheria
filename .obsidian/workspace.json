@@ -11,8 +11,12 @@
             "id": "530445c685d30e3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campañas/Reedme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DnD/Campañas/Reedme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DnD/Campañas/Reedme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Aetheria/Razas/Changeling.md"
+                "file": "DnD/Campañas/Reedme.md"
               }
             }
           }
@@ -141,8 +147,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8ef2f8428c317bc1",
+  "active": "530445c685d30e3a",
   "lastOpenFiles": [
+    "DnD/Campañas/Aetheria/Bienvenido a Aetheria.md",
+    "DnD/Campañas/Reedme.md",
+    "DnD/Aetheria/Razas/Changeling.md",
     "DnD/Campañas/Aetheria",
     "DnD/Campañas",
     "Eliminar.md",
@@ -176,7 +185,6 @@
     "DnD/Aetheria/Razas/Elfos.md",
     "DnD/Aetheria/Razas/Duregard.md",
     "DnD/Aetheria/Razas/Drows.md",
-    "DnD/Aetheria/Razas/Changeling.md",
     "DnD/Aetheria/Razas",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/town boy.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Pupet master.jpg",
@@ -187,8 +195,6 @@
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Gemologist.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Ciber noble.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Alta mujer.jpg",
-    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Automat noble.jpg",
-    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara",
-    "DnD/Aetheria/Hechizos homebrew/Mantle.md"
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Automat noble.jpg"
   ]
 }
