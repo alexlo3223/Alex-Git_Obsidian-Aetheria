@@ -62,17 +62,24 @@ Siempre que uses este rasgo de clase o al comienzo de cada uno de tus turnos, la
 Si tienes menos de los puntos requeridos en la tabla en tu reserva, no se drenan y no obtienes ningún beneficio. 
 Como acción, puedes imbuir cualquier número de puntos de Luz de Tormenta en una gema, incluyendo tu gema de Luz de Tormenta. Si se trata de una gema normal, la gema emite luz brillante en 5 pies y luz tenue en 15 pies adicionales. 
 
+**Exhausto de luz**
+En el caso que hayas consumido (numero por concretar) en un lapso de (lapso por concretar), te sentirás exhausto y débil ya que tu cuerpo no puede seguir el ritmo de la luz tormentosa.
+
+En el momento que se gaste la reserva de luz tormentosa y haya pasado ese lapso, obtienes 2 puntos de exhausto.
+
 #### Recuperación de  Luz Tormentosa
 
-Descanso largo: (Todos)
-Descanso Corto: (Bonificación de competencia * 5)
+**Cuanto recuperan las piedras**
+Descanso largo: (Capacidad máxima)
+Descanso Corto: (Bonificación de competencia + WIS)
 
+**Capacidad de las esferas**
 Cuarzo 10gp (5 de Luz Tormentosa)
 Zafiro 100gp (10 de Luz Tormentosa)
 Rubí 500gp (20 de Luz Tormentosa)
 Esmeralda 1000gp (30 de Luz Tormentosa)
 Diamante 1500gp (40 de Luz Tormentosa)
-Gold point colocados en caso de querer usarlo de moneda
+==Gold point colocados en caso de querer usarlo de moneda==
 
 Además, algunos rasgos de clase del Caballero Radiante requieren tiradas de salvación. En este caso la DC es 8 + tu bonificador de competencia + tu modificador de carisma.
 
