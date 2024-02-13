@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campañas/Reedme.md",
+                "file": "DnD/Aetheria/Bienvenido a Aetheria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Campañas/Reedme.md",
+                "file": "DnD/Aetheria/Bienvenido a Aetheria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Campañas/Reedme.md",
+                "file": "DnD/Aetheria/Bienvenido a Aetheria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Campañas/Reedme.md"
+                "file": "DnD/Aetheria/Bienvenido a Aetheria.md"
               }
             }
           }
@@ -147,23 +147,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "530445c685d30e3a",
+  "active": "8ef2f8428c317bc1",
   "lastOpenFiles": [
-    "DnD/Campañas/Aetheria/Bienvenido a Aetheria.md",
     "DnD/Campañas/Reedme.md",
+    "DnD/Aetheria/Bienvenido a Aetheria.md",
     "DnD/Aetheria/Razas/Changeling.md",
-    "DnD/Campañas/Aetheria",
+    "DnD/Aetheria",
     "DnD/Campañas",
     "Eliminar.md",
-    "DnD/Hombrew/Clases/Caballero Radiante/Tabla.md",
-    "DnD/Hombrew/Clases/Caballero Radiante/Sprens, su aspecto y comportamiento.md",
-    "DnD/Hombrew/Clases/Caballero Radiante/Potencias.md",
-    "DnD/Hombrew/Clases/Caballero Radiante/Ordenes.md",
-    "DnD/Hombrew/Clases/Caballero Radiante/Ideales.md",
-    "DnD/Hombrew/Clases/Caballero Radiante/Clase.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
     "DnD/Hombrew/Hechizos/Mantle.md",
     "DnD/Hombrew/Hechizos/Empathy.md",
-    "DnD/Hombrew/Clases/Caballero Radiante",
+    "DnD/Hombrew/Clase_Caballero Radiante",
     "DnD/Hombrew/Hechizos",
     "DnD/Hombrew/Clases",
     "DnD/Hombrew",
