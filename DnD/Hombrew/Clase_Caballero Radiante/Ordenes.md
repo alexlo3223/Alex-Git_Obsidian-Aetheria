@@ -49,7 +49,7 @@ Tras el primer ideal, progresan diciendo verdades. Secretos que los Tejedores de
 **Acceso a las potencias**
 A 3º nivel, obtienes el primer rasgo de la potencia de iluminación y transformación.
 
-**Mentiro so compulsivo**
+**Mentiroso compulsivo**
 A 3º nivel, obtienes acceso a la lista de conjuros de la clase bardo con los spell slots siguientes: #Acabar 
 
 **Mente mejorada**
@@ -65,8 +65,6 @@ Puedes hacer esto en tu turno como una acción bonus mientras dure la ilusion. E
 
 Por ejemplo, puedes crear una ilusión de un puente sobre un abismo y luego hacerlo real el tiempo suficiente para que tus para que tus aliados lo crucen.
 El objeto no puede infligir daño directamente a nadie.
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
 
 # Nominadores de lo Otro
 Aquellos que se unen a los Nominadores de lo Otro normalmente aceptan la filosofía de que deben mejorar con cada juramento, con el objetivo de explorar su verdadero potencial y alcanzarlo. Esta orden está más abierta a aceptar a todo tipo de personas, siempre que quieran superarse a sí mismos. Tienden a atraer a aquellos que son menos extravagantes, como eruditos, teólogos y personas interesadas en el liderazgo. Se les asocia con los atributos sabio y cuidadoso.
