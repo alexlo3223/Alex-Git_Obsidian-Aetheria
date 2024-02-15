@@ -15,7 +15,7 @@ Se vinculan a honorspren.
 
 ## Características de clase
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de gravitación y adhesion.
+A 3º nivel, obtienes el primer rasgo de las potencias de gravitación y adhesión.
 
 **Gracia del viento**
 A 3º nivel, Estás listo para la batalla en cualquier momento. Puedes darte una bonificación
@@ -47,7 +47,7 @@ Tras el primer ideal, progresan diciendo verdades. Secretos que los Tejedores de
 
 ## Características de clase
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de iluminación y transformación.
+A 3º nivel, obtienes el primer rasgo de las potencias de iluminación y transformación.
 
 **Mentiroso compulsivo**
 A 3º nivel, obtienes acceso a la lista de conjuros del tipo ilusión y encantar con los spell slots siguientes: #Acabar 
@@ -76,7 +76,7 @@ Los Ideales de la Orden de los Nominadores de lo Otro se centran en progresar co
 ## Características de clase
 
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de transporte y transformación.
+A 3º nivel, obtienes el primer rasgo de las potencias de transporte y transformación.
 
 **Titulo**
 A 3º nivel, obtienes acceso a la lista de conjuros de conjuración y evocación, con los spell slots indicados: #Acabar 
