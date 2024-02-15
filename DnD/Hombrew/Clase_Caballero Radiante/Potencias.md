@@ -100,7 +100,8 @@ Puedes alterar la gravedad mediante el uso de lazos. Como acción bonus, puedes 
 **==Enlaces hacia el usuario:==**
 A la hora de que un caballero radiante se enlace a si mismo con uno  del los enlaces, puede extender las rondas, cambiando de enlace y de dirección según el vea conveniente, haciendo el pago de luz conveniente.
 
-==**Cambiar la dirección de gravedad**:== al cambiar la dirección de gravedad de un objetivo su "suelo" cambia de abajo a la dirección que elijas, en caso de toparse con una superficie desde un poco de altura(mas de 10 pies), sea una pared o un suelo, tiene que hacer una tirada de acrobacias o quedarse tumbado (aparte del daño de caída) hasta la su siguiente turno. 
+==**Cambiar la dirección de gravedad**:== al cambiar la dirección de gravedad de un objetivo su "suelo" cambia de abajo a la dirección que elijas con un tirón, dependiendo de la fuerza del tirón la persona la persona sale volando o simplemente siente que tiran de el hacia esa dirección, fuerza determinada para salir volando **+10 pies**.
+En caso de toparse con una superficie desde un poco de altura(mas de 10 pies), sea una pared o un suelo, tiene que hacer una tirada de acrobacias o quedarse tumbado (aparte del daño de caída) hasta la su siguiente turno. 
 
 En caso de que el objetivo sea un objeto y impacta hacia un enemigo hace el daño en referencia a lo que ponga en el manual en caso de ser arma y si es un objeto sin daño haría daño dependiendo de su peso
 
