@@ -52,6 +52,29 @@ A 3º nivel, obtienes el primer rasgo de las potencias de iluminación y transfo
 **Mentiroso compulsivo**
 A 3º nivel, obtienes acceso a la lista de conjuros del tipo ilusión y encantar con los spell slots siguientes: #Acabar 
 
+| Nivel | Spell 1 | Spell 2 | Spell 3 | Spell 4 | Spell 5 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 3 | 2 | - | - | - | - |
+| 4 | 2 | 1 | - | - | - |
+| 5 | 3 | 2 | - | - | - |
+| 6 | 3 | 2 | 1 | - | - |
+| 7 | 3 | 2 | 1 | - | - |
+| 8 | 3 | 2 | 1 | - | - |
+| 9 | 4 | 3 | 2 | 1 | - |
+| 10 | 4 | 3 | 2 | 1 | - |
+| 11 | 4 | 3 | 2 | 1 | - |
+| 12 | 4 | 3 | 2 | 1 | - |
+| 13 | 5 | 4 | 3 | 2 | 1 |
+| 14 | 5 | 4 | 3 | 2 | 1 |
+| 15 | 5 | 4 | 3 | 2 | 1 |
+| 16 | 5 | 4 | 3 | 2 | 1 |
+| 17 | 6 | 5 | 4 | 3 | 2 |
+| 18 | 6 | 5 | 4 | 3 | 2 |
+| 19 | 6 | 5 | 4 | 3 | 2 |
+| 20 | 6 | 5 | 4 | 3 | 2 |
+
+Tu estadística de para lanzar hechizos es CHA.
+
 **Mente mejorada**
 A 7º nivel,  la mente de un Tejedor de Luz ha mejorado, otorgándole los siguientes rasgos. Ahora recuerda perfectamente todo lo que ha visto y oído en la ultima semana.
 
