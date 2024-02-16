@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md"
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md"
               }
             }
           }
@@ -184,10 +183,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "07f649122590dc66",
+  "active": "c1f5ab37dfed81bb",
   "lastOpenFiles": [
-    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
     "Pasted image 20240213184124.png",
     "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
