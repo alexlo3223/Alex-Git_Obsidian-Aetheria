@@ -104,15 +104,43 @@ A 3º nivel, obtienes el primer rasgo de las potencias de transporte y transform
 **Titulo**
 A 3º nivel, obtienes acceso a la lista de conjuros de conjuración y evocación, con los spell slots indicados: #Acabar 
 
-**Transformar terreno**
-A 7º nivel, puedes utilizar ambas potencias para modificar el terreno en un área de 20 pies por uno que ya conoces.
-Ejemplo: transformar el terreno dificultoso de una jungla por el de una ciudad para moverse sin dificultades.
+| Nivel | Spell 1 | Spell 2 | Spell 3 | Spell 4 |
+| ---- | ---- | ---- | ---- | ---- |
+| 3 | 2 | - | - | - |
+| 4 | 2 | - | - | - |
+| 5 | 2 | - | - | - |
+| 6 | 2 | - | - | - |
+| 7 | 2 | 1 | - | - |
+| 8 | 3 | 1 | - | - |
+| 9 | 3 | 1 | - | - |
+| 10 | 3 | 1 | - | - |
+| 11 | 3 | 1 | - | - |
+| 12 | 3 | 2 | 1 | - |
+| 13 | 3 | 2 | 1 | - |
+| 14 | 3 | 2 | 1 | - |
+| 15 | 3 | 2 | 1 | - |
+| 16 | 4 | 3 | 2 | 1 |
+| 17 | 4 | 3 | 2 | 1 |
+| 18 | 4 | 3 | 2 | 1 |
+| 19 | 4 | 3 | 2 | 1 |
+| 20 | 5 | 4 | 3 | 2 |
+Tu estadística de para lanzar hechizos es INT.
 
 **Diapasón**
-A 11º nivel, ha aprendido a controlar sus emociones y a pensar con lógica. Se vuelve competente en las tiradas de salvación de Carisma, Sabiduría e Inteligencia si tenia competencia con alguna de estas tiene pericia. 
+A 7º nivel, ha aprendido a controlar sus emociones y a pensar con lógica. Se vuelve competente en las tiradas de salvación de Carisma, Sabiduría e Inteligencia si tenia competencia con alguna de estas tiene pericia. 
 
-**Titulo**
-A 15º nivel, #Acabar 
+**Desplazamiento Planar**
+Cuando alcanzas el 6º nivel, puedes intentar desplazar a una criatura.
+Como acción, tocas a una criatura y gastas 10 puntos de Luz de Luz Tormentosa. Si la criatura no está dispuesta, debe superar un tirada de salvación de Carisma o ser teletransportada a un espacio desocupado que puedas ver en un radio de 60 pies.
+
+Puedes usar este rasgo una vez, y no puedes volver a usarlo hasta que termines un descanso corto o largo.
+
+**Conjunción Realmática**
+A 15º nivel, tu conexión con el Reino Cognitivo te permite resistir la muerte. Cuando tus puntos de vida a 0 y estás bajo los efectos de la Luz de la Tormenta, consumes la Luz de la Tormenta que tengas en tu cuerpo. 
+
+Recuperas 4 puntos de vida por cada 20 puntos de Luz de la Tormenta consumido, hasta la mitad de tus puntos de vida máximos y desapareces en el plano etéreo. Reapareces al inicio de tu siguiente turno en el lugar donde caíste inconsciente. Si queda Luz de la Tormenta sin consumir en tu cuerpo después de reaparecer, la expulsas por completo.
+
+Una vez que usas este rasgo, debes terminar un largo descanso antes de volver a usarla.
 
 # Portadores de polvo
 Un Portadores de polvo se puede resumir en pocas palabras: Muévete rápido y rompe cosas. Manejan las oleadas de abrasión y división para destruir el mayor número posible de cosas. Los Portadores de polvo no conocen más juramento que el primero. Se unen a los Cenizaspren. Los Cenizaspren sienten una curiosidad morbosa por el interior de las personas. Esto puede deberse al hecho de que los cuerpos de los Cenizaspren se disuelven y reforman constantemente.
