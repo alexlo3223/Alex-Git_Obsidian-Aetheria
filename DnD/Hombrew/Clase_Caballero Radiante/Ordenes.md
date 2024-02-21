@@ -132,6 +132,7 @@ Cuando estás bajo el efecto de la Luz de la Tormenta, puedes utilizar tu rasgo 
 
 
 # Escultores de Voluntad
+#Acabar 
 atraer a constructores, artesanos y otras personas, sus miembros solían ser variados en su profesión. También eran de personalidad variada, pero en general disfrutaban descubriendo cosas nuevas, inusuales y extrañas; también se les consideraba caprichosos y poco fiables, lo que hacía que fuera algo frustrante relacionarse con ellos. Se encargaban de construir y apoyar a las sociedades; ayudaban a los que se resistían a la tiranía y la opresión. También eran constructores literales: en tiempos de paz, utilizaban sus poderes para ayudar a construir edificios e infraestructuras, así como para formar a los que vivían en ellos; en tiempos de guerra, fortificaban las ciudades; y una vez terminada la batalla, al igual que su Heraldo patrón, viajaban para enseñar a la gente oficios como la elaboración del bronce o la sanidad.
 
 #### Ideales: 
@@ -158,22 +159,34 @@ A 7º nivel Tu amor natural por la exploración y tu experiencia en atravesar ci
 - **Desierto**: Cuando viajas por el desierto, siempre sabes dónde encontrar agua. Además, tienes resistencia al daño por fuego mientras quemas luz de tormenta.
 
 # Danzantes del filo
-Los Danzantes del Filo se adhieren generalmente a una filosofía de recordar a las personas corrientes del mundo. La orden considera su solemne deber tener presente que a quien sirven realmente es a la gente. Incluso aspiran a escuchar y recordar a sus enemigos, ya que sus historias podrían darles una nueva perspectiva. Los Danzantes del Filo creen que su deber es cuidar de la gente común y mejorar sus vidas diarias, y son similares a los buenos samaritanos.
+Los Danzantes del Filo se adhieren generalmente a una filosofía de recordar a las personas corrientes del mundo. La orden considera su solemne deber tener presente que a quien sirven realmente es a la gente. Incluso aspiran a escuchar y recordar a sus enemigos, ya que sus historias podrían darles una nueva perspectiva. Los Danzantes del Filo creen que su deber es cuidar de la gente común y mejorar sus vidas diarias, y son similares a los buenos samaritanos. Dentro de la fuerza de los guerreros radiantes se les consideraba médicos de campo.
 
 #### Ideales:
 Los ideales de la Orden de los Danzantes del Filo se centran en recordar y defender a la gente corriente.
 
-#### Potencias
-**Abrasión**
-A 3er nivel obtiene el primer rasgo de la oleada de abrasión. A 13º nivel, obtiene el segundo.
-
-**Progresión**
-A 7º nivel, obtiene el primer rasgo de la oleada de progresión. A 17º nivel, obtiene el segundo.
-
 ## Características de clase
-**Florecimiento de la Naturaleza**
-A 10º nivel, como acción puedes gastar 30 puntos de Luz de tormenta para lanzar el conjuro Crecimiento vegetal.
 
+**Habilidades adicionales**
+Al unirte a esta Orden Radiante, adquieres competencia en las habilidades Acrobacia y Sigilo.
+
+**Acceso a las potencias**
+A 3º nivel, obtienes el primer rasgo de la potencia de abrasión y progresión
+
+**Don de la Naturaleza**
+A 3º nivel, un flujo de energía revitalizante recorre tu cuerpo. Eres inmune al veneno y la enfermedad.
+Además, cuando atacas a una criatura que aún no ha tomado turno, lo haces con ventaja.
+
+**Crecimiento natural**
+A 7º nivel, los ataques de oportunidad contra ti se realizan con
+desventaja.
+Además, cuando estás bajo los efectos de luz tormentosa tienes ventaja en los chequeos de Fuerza (Atletismo) para empujar a una criatura y, si realizas la acción de Ataque en tu turno, puedes usar una acción de bonificación para intentar empujar a una criatura a 5 pies de ti.
+
+**Escurridizo**
+A 10º nivel, tienes ventaja en las tiradas de salvación de Fuerza y Destreza cuando estés bajo los efectos de la luz tormentosa y no puedes ser agarrado o retenido y no puede ser movido involuntariamente.
+
+**Resonancia de la naturaleza**
+A 15º nivel, cuando uses la potencia de progresión, para curar a un aliado puedes curar a otro aliado o a ti mismo tu bono de competencia.
+Esta habilidad se puede hacer tantas veces como tu bono de WIS.
 # Rompedores del Cielo
 Los que se unen a los Rompedores del Cielo generalmente creen en seguir un código moral fuerte. Desean prevenir la anarquía y la tiranía por igual. Para hacerlo, hacen a todos cumplir la ley. Particularmente tratan de evitar que las otras Órdenes de Radiantes usen sus poderes para violar la ley y se conviertan en tiranos. Usaban códigos morales y estructuras legales para luchar por la justicia y las causas en las que creían. Se unen a los altospren.
 
@@ -188,10 +201,23 @@ A 3er nivel obtiene el primer rasgo de la oleada de gravitación. A 13º nivel, 
 A 7º nivel, obtienes el primer rasgo de la oleada de división. A 17º nivel, obtiene el segundo
 
 ## Características de clase
-**No te muevas**
-A 7º nivel, tu voz, impregnada de Luz de la Tormenta, puede hacer que los criminales se queden inmóviles. Como acción puedes gastar 30 puntos de Luz de la Tormenta y gritar a una criatura. Si esa criatura ha roto una ley del código que sigues (Decision del DM) debe tener éxito en una salvación de sabiduría contra tu DC de Caballero Radiante o quedar paralizado durante 1 minuto. Al final del turno de la criatura puede repetir la tirada de salvación para terminar el efecto.
 
-# Forgador de vínculos
+**Titulo**
+A 3º nivel,
+
+**Titulo**
+A 3º nivel,
+
+**Titulo**
+A 7º nivel,
+
+**Titulo**
+A 10º nivel,
+
+**Titulo**
+A 15º nivel, 
+
+# Forjador de vínculos
 Si bien cada orden de Radiantes tiene diversidad de personalidades entre sus miembros, aquellos que se unen a los Forjadores de Vínculos generalmente aceptan una filosofía de paz y unidad. Buscan la unidad a cualquier escala, desde unir a los altos príncipes en un solo reino y con un solo propósito Esta filosofía se ve reflejada en sus Ideales, que generalmente tienen como tema central la unidad. Unir a las personas es su mayor vocación y su deber más importante como Radiantes. De entre todas las órdenes, el papel de los Forjadores de Vínculos como corazón y alma de los Radiantes los convierte en una de las órdenes más respetadas y célebres, por lo que su protección y seguridad son una preocupación fundamental.
 Si algún spren se ha vinculado con una persona antes tiene que existir un forjador de vínculos.
 
