@@ -1,4 +1,7 @@
-## División
+## División 
+
+tercer ideal
+
 La oleada de división se utiliza para destruir cosas a nivel molecular. La oleada quema o convierte en cenizas al objetivo. Los Skybreakers y los Dustbringers tienen acceso a esta oleada.
 
 **Deterioro**
