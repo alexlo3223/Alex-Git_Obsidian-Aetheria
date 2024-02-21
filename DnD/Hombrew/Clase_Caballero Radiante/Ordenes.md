@@ -202,17 +202,17 @@ A 7º nivel, obtienes el primer rasgo de la oleada de división. A 17º nivel, o
 
 ## Características de clase
 
-**Titulo**
-A 3º nivel,
+**Acceso a las potencias**
+A 3º nivel, obtienes el primer rasgo de la potencia de Gravitación y División.
 
-**Titulo**
-A 3º nivel,
+Pago
+A 3º nivel, cuando una criatura te golpea con un ataque cuerpo a cuerpo puedes hacer un ataque de arma cuerpo a cuerpo contra esa criatura como reacción si está a tu alcance.
 
-**Titulo**
-A 7º nivel,
+**Juez perspicaz**
+A 7º nivel, tu bonificador de competencia se duplica para tu habilidad de perspicacia. Además, tras un chequeo de Sabiduría (Perspicacia) contra una criatura, tienes ventaja en tu siguiente ataque ataque contra ella durante 1 minuto o hasta que tengas éxito en un chequeo de control de Sabiduría (Perspicacia) contra una criatura.
 
-**Titulo**
-A 10º nivel,
+**Alta resistencia**
+A partir del nivel l4, tienes ventaja en los chequeos y tiradas de salvación contra el encantamiento y el miedo.
 
 **Titulo**
 A 15º nivel, 
