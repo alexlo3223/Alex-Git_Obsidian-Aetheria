@@ -1,9 +1,6 @@
 # Corredores del viento
 Los Corredores del viento son muy honorables. Creen en hacer lo correcto para ellos y sus spren. Los Corredores del viento siempre sienten la necesidad de proteger a la gente que les rodea. Los Corredores del cielo tienen acceso a las potencias de Gravitación y Adhesión. 
 
-**Honorspren**:
-Los honorspren iluminan el camino de los que se lo merecen, su presencia da 5 pies de luz azul clara, si quieren,
-
 #### Ideales:
 
 El segundo ideal de los Corredores del viento es: "*Protegeré a los que no pueden protegerse a sí mismos*".
@@ -49,31 +46,8 @@ Tras el primer ideal, progresan diciendo verdades. Secretos que los Tejedores de
 **Acceso a las potencias**
 A 3º nivel, obtienes el primer rasgo de las potencias de iluminación y transformación.
 
-**Mentiroso compulsivo**
-A 3º nivel, obtienes acceso a la lista de conjuros del tipo ilusión con los spell slots siguientes: #Acabar 
-
-| Nivel | Spell 1 | Spell 2 | Spell 3 | Spell 4 |
-| ---- | ---- | ---- | ---- | ---- |
-| 3 | 2 | - | - | - |
-| 4 | 2 | - | - | - |
-| 5 | 2 | - | - | - |
-| 6 | 2 | - | - | - |
-| 7 | 2 | 1 | - | - |
-| 8 | 3 | 1 | - | - |
-| 9 | 3 | 1 | - | - |
-| 10 | 3 | 1 | - | - |
-| 11 | 3 | 1 | - | - |
-| 12 | 3 | 2 | 1 | - |
-| 13 | 3 | 2 | 1 | - |
-| 14 | 3 | 2 | 1 | - |
-| 15 | 3 | 2 | 1 | - |
-| 16 | 4 | 3 | 2 | 1 |
-| 17 | 4 | 3 | 2 | 1 |
-| 18 | 4 | 3 | 2 | 1 |
-| 19 | 4 | 3 | 2 | 1 |
-| 20 | 5 | 4 | 3 | 2 |
-
-Tu estadística de para lanzar hechizos es CHA.
+**Artista novato**
+A 3º nivel, adquieres competencia en un tipo de herramientas artesanales de tu elección, el kit de disfraz y en las habilidades Engaño y Actuación.
 
 **Mente mejorada**
 A 7º nivel,  la mente de un Tejedor de Luz ha mejorado, otorgándole los siguientes rasgos. Ahora recuerda perfectamente todo lo que ha visto y oído en la ultima semana.
@@ -101,30 +75,11 @@ Los Ideales de la Orden de los Nominadores de lo Otro se centran en progresar co
 **Acceso a las potencias**
 A 3º nivel, obtienes el primer rasgo de las potencias de transporte y transformación.
 
-**Titulo**
-A 3º nivel, obtienes acceso a la lista de conjuros de conjuración y evocación, con los spell slots indicados: #Acabar 
+**Fluctuación planar**
+Cuando te mueves, viajas a través de otros planos.
+Una vez en cada turno, mientras estés bajo los efectos de Luz de tormenta, puedes perder hasta la mitad de tu movimiento para teletransportarte la distancia perdida. Debes teletransportarte a un espacio desocupado que puedas ver.
 
-| Nivel | Spell 1 | Spell 2 | Spell 3 | Spell 4 |
-| ---- | ---- | ---- | ---- | ---- |
-| 3 | 2 | - | - | - |
-| 4 | 2 | - | - | - |
-| 5 | 2 | - | - | - |
-| 6 | 2 | - | - | - |
-| 7 | 2 | 1 | - | - |
-| 8 | 3 | 1 | - | - |
-| 9 | 3 | 1 | - | - |
-| 10 | 3 | 1 | - | - |
-| 11 | 3 | 1 | - | - |
-| 12 | 3 | 2 | 1 | - |
-| 13 | 3 | 2 | 1 | - |
-| 14 | 3 | 2 | 1 | - |
-| 15 | 3 | 2 | 1 | - |
-| 16 | 4 | 3 | 2 | 1 |
-| 17 | 4 | 3 | 2 | 1 |
-| 18 | 4 | 3 | 2 | 1 |
-| 19 | 4 | 3 | 2 | 1 |
-| 20 | 5 | 4 | 3 | 2 |
-Tu estadística de para lanzar hechizos es INT.
+Puedes utilizar este rasgo un número de veces igual a tu bonificador de competencia, y recuperas todos los usos gastados cuando terminas un descanso largo.
 
 **Diapasón**
 A 7º nivel, ha aprendido a controlar sus emociones y a pensar con lógica. Se vuelve competente en las tiradas de salvación de Carisma, Sabiduría e Inteligencia si tenia competencia con alguna de estas tiene pericia. 
@@ -143,44 +98,37 @@ Recuperas 4 puntos de vida por cada 20 puntos de Luz de la Tormenta consumido, h
 Una vez que usas este rasgo, debes terminar un largo descanso antes de volver a usarla.
 
 # Portadores de polvo
+#Acabar 
 Un Portadores de polvo se puede resumir en pocas palabras: Muévete rápido y rompe cosas. Manejan las oleadas de abrasión y división para destruir el mayor número posible de cosas. Los Portadores de polvo no conocen más juramento que el primero. Se unen a los Cenizaspren. Los Cenizaspren sienten una curiosidad morbosa por el interior de las personas. Esto puede deberse al hecho de que los cuerpos de los Cenizaspren se disuelven y reforman constantemente.
 
 #### Ideales: 
 Los ideales de la Orden de los Portadores del Polvo se centran en la responsabilidad y en controlar su poder, y están diseñados para ser una lección sobre la esencia del poder y la responsabilidad que este conlleva.
 
 #### Potencias
-**Abrasión**
-A partir del 3er nivel obtienes el primer rasgo de abrasión. El segundo rasgo se obtiene a nivel 13.
-
-**División**
-A partir del 6º nivel, obtienes el primer rasgo de división. El segundo rasgo se obtiene a nivel 17.
 
 ## Características de clase
 
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de 
+A 3º nivel, obtienes el primer rasgo de la potencia de abrasión y división
 
 **Guerrero empedernido**
 A 3º nivel, obtienes un estilo de combate entre:
-- 
+- Técnica Superior
+- Arma a 2 manos
+- Lucha con 2 armas
 
-**Ráfaga de ceniza**
-A 7º nivel, 
+**Crear calor**
+A 7º nivel, puedes aumentar la abrasión de una criatura para hacerla más débil contra el calor. Cuando utilizas la potencia de división, puedes elegir uno de los objetivos del hechizo. Esa criatura debe hacer una tirada de salvación de Constitución contra tu hechizo, teniendo vulnerabilidad contra el daño de fuego hasta el hasta el comienzo de su siguiente turno si falla, y no se verá afectada si falla, y no le afecta si tiene éxito.
 
-**Potenciador experto**
-A 7º nivel, tienes una mejora de una potencia de tu elección.
+Puedes usar este rasgo un número de veces igual a tu bono de competencia, y recuperas todos los usos gastados cuando
+cuando terminas un descanso largo.
 
 **Titulo**
 A 11º nivel,
 
-**Potenciador Maestro**
-A 11º nivel, tienes una mejora de una potencia de tu elección.
-
-**Titulo**
-A 15º nivel, 
-
-**Titulo**
-A 20º nivel, 
+**Dominio de la resonancia**
+A 15º nivel, tu control sobre tus oleadas es inigualable.
+Cuando estás bajo el efecto de la Luz de la Tormenta, puedes utilizar tu rasgo Crear Calor sin gastar un uso de él.
 
 
 # Escultores de Voluntad
