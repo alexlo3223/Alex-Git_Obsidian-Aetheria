@@ -123,8 +123,8 @@ A 7º nivel, puedes aumentar la abrasión de una criatura para hacerla más déb
 Puedes usar este rasgo un número de veces igual a tu bono de competencia, y recuperas todos los usos gastados cuando
 cuando terminas un descanso largo.
 
-**Titulo**
-A 11º nivel,
+**Soplo de ceniza**
+A 10º nivel, aprendes a controlar la ceniza creada por la potencia de división. Cuando utilizas tu potencia de división puedes, como acción gratuita, atraer la ceniza hacia ti. En cualquier momento antes de que tomes un descanso largo, si un enemigo te golpea con un ataque cuerpo a cuerpo, puedes usar tu reacción para hacer que la ceniza resople contra tu atacante. Deben tener éxito en una tirada de salvación de Constitución contra tu CD de Caballero Radiante o sufrir desventaja en todas las tiradas de ataque y tiradas de salvación durante 3 turnos. Una criatura puede repetir esta tirada al final de su turno, terminando el efecto con un éxito.
 
 **Dominio de la resonancia**
 A 15º nivel, tu control sobre tus oleadas es inigualable.
