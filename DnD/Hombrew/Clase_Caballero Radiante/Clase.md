@@ -133,10 +133,6 @@ A 9º nivel, has aprendido a inspirar tu Luz de la Tormenta a un ritmo reducido 
 
 Puedes cambiar entre inspiraciones al comienzo de tu turno.
 
-### Ritmo de la guerra
-A 10º nivel, despues de haber utilizado tu accion como ataque o para un hechizo puedes hacer un ataque extra con desbentaja.
-A nivel 13 es una tirada normal.
-
 ### Potenciador Maestro
 A 13º nivel, tienes una mejora de una potencia de tu elección.
 
