@@ -10,7 +10,7 @@
 | Lvl 7 | 42 | Característica de orden, Potenciador experto | 1d4 | 1 |
 | Lvl 8 | 48 | Mejora de puntuación de habilidad | 1d4 | 2 |
 | Lvl 9 | 54 | Inspiración lenta | 1d6 | 2 |
-| Lvl 10 | 60 | Ritmo de la guerra | 1d6 | 2 |
+| Lvl 10 | 60 |  | 1d6 | 2 |
 | Lvl 11 | 66 | Característica de orden | 1d6 | 2 |
 | Lvl 12 | 72 | Mejora de puntuación de habilidad | 1d6 | 2 |
 | Lvl 13 | 78 | Potenciador Maestro | 1d6 | 2 |
