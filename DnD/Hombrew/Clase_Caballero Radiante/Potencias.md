@@ -88,7 +88,7 @@ Al 17º nivel, puedes resucitar criaturas utilizando la luz de las tormentas. Pu
 Puedes alterar la gravedad mediante el uso de lazos. Como acción bonus, puedes gastar luz tormentosa para atarte a ti mismo, a un objeto o a una criatura a un **máximo de 2 enlaces por acción bonus**. Si tu objetivo es una criatura que no quiere, puede hacer una tirada de salvación de Fuerza contra tu CD de Caballero Radiante para resistir el efecto, esta tirada se puede hacer cada ronda. La cantidad de puntos de luz tormentosa gastados determina el efecto. Los efectos duran hasta el inicio de tu siguiente turno a menos que se especifique lo contrario o que no quede luz tormentosa en la reserva.
 
 #### Cuarto de enlace
-1 punto - velocidad de movimiento incrementada o disminuida en 10 pies en la dirección determinada.
+1 punto - velocidad de movimiento incrementada o disminuida en 10 pies en la dirección determinada, en caso de elegir una dirección elevada disminuye el peso a la mitad del usuario. Si el usuario elije una dirección en diagonal hacia arriba recibe la mitad de los anteriores beneficios.
 
 #### Medio enlace
 2 puntos - Dura hasta el final de tu siguiente turno puedes cambiar la dirección de gravedad de una persona hasta 10 en una dirección, en el caso que el suelo este mas abajo de diez pies el usuario ira planeando, bajando de 10 pies en 10 pies por ronda. ==(Este enlace sirve mas que nada para poder ir bajando de un enlace que te ha hecho volar)==
