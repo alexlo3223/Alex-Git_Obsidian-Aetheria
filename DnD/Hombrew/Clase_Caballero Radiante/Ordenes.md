@@ -12,11 +12,11 @@ Se vinculan a honorspren.
 
 ## Características de clase
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de las potencias de gravitación y adhesión.
+A 2º nivel, obtienes el primer rasgo de las potencias de gravitación y adhesión.
 
 **Gracia del viento**
-A 3º nivel, Estás listo para la batalla en cualquier momento. Puedes darte una bonificación
-a tus tiradas de iniciativa igual a tu modificador de Orden.
+A 2º nivel, Estás listo para la batalla en cualquier momento. Puedes darte una bonificación
+a tus tiradas de iniciativa igual a tu modificador de competencia.
 
 **Protegeré a los que no pueden protegerse a sí mismos**
 A partir del 7º nivel, puedes adoptar una postura defensiva para proteger a tus aliados de los ataques a distancia. Cuando un aliado que esté a menos de 15 pies de ti es atacado por un ataque a distancia que
@@ -30,7 +30,7 @@ cuando terminas un descanso largo.
 A 11º nivel, puedes saber con exactitud cuando pasara una tormenta cerca de tu área (ciudad, pueblo, distrito)
 Aparte tienes ventaja tu bonificador de competencia en tiradas de salvación de hechizos de daño de trueno.
 
-**La fuerza que me falta para ello** #Nivelar
+**La fuerza que me falta para ello**
 A 15º nivel, mientras estés bajo los efectos de la luz tormentosa y tengas invocada la armadura esquirlada, puedes hacer que proteja a otros del daño.
 Cuando una criatura que puedas ver en un radio de 60 pies es alcanzada por un ataque, puedes usar tu reacción para hacer que tu armadura esquirlada los proteja.
 
@@ -49,19 +49,20 @@ A 3º nivel, obtienes el primer rasgo de las potencias de iluminación y transfo
 **Artista novato**
 A 3º nivel, adquieres competencia en un tipo de herramientas artesanales de tu elección, el kit de disfraz y en las habilidades Engaño y Actuación.
 
-**Mente mejorada**
-A 7º nivel,  la mente de un Tejedor de Luz ha mejorado, otorgándole los siguientes rasgos. Ahora recuerda perfectamente todo lo que ha visto y oído en la ultima semana.
-
-**Mentira precisa**
-A 11º nivel, dominas una habilidad basada en el Carisma o la Inteligencia(Pericia) y a la hora de plasmar la ilusión deseada puedes hacer un esbozo rápido en 1 turno en vez de tenerlo ya hecho antes.
-
 **Realidad Ilusoria**
-A 15º nivel, has aprendido el secreto de entretejer en tus ilusiones para darles una semirrealidad. Cuando creas una ilusión, puedes elegir un objeto inanimado no mágico que forme parte de la ilusión y convertirlo en real. 
+A 7º nivel,  has aprendido el secreto de entretejer en tus ilusiones para darles una semi-realidad. Cuando creas una ilusión, puedes elegir un objeto inanimado no mágico que forme parte de la ilusión y convertirlo en real. 
 
-Puedes hacer esto en tu turno como una acción bonus mientras dure la ilusion. El objeto permanece real durante 1 minuto. 
+Puedes hacer esto en tu turno como una acción bonus mientras dure la ilusión. El objeto permanece real durante 1 minuto. 
 
 Por ejemplo, puedes crear una ilusión de un puente sobre un abismo y luego hacerlo real el tiempo suficiente para que tus para que tus aliados lo crucen.
 El objeto no puede infligir daño directamente a nadie.
+
+%%Hay que mirar de hacerlo de alguna manera de que pueda hacer algo útil o que tenga chicha%%
+**Titulo** #Acabar 
+A 11º nivel, 
+
+**Titulo** #Acabar 
+A 15º nivel, 
 
 # Nominadores de lo Otro
 Aquellos que se unen a los Nominadores de lo Otro normalmente aceptan la filosofía de que deben mejorar con cada juramento, con el objetivo de explorar su verdadero potencial y alcanzarlo. Esta orden está más abierta a aceptar a todo tipo de personas, siempre que quieran superarse a sí mismos. Tienden a atraer a aquellos que son menos extravagantes, como eruditos, teólogos y personas interesadas en el liderazgo. Se les asocia con los atributos sabio y cuidadoso.
@@ -85,15 +86,15 @@ Puedes utilizar este rasgo un número de veces igual a tu bonificador de compete
 A 7º nivel, ha aprendido a controlar sus emociones y a pensar con lógica. Se vuelve competente en las tiradas de salvación de Carisma, Sabiduría e Inteligencia si tenia competencia con alguna de estas tiene pericia. 
 
 **Desplazamiento Planar**
-Cuando alcanzas el 6º nivel, puedes intentar desplazar a una criatura.
-Como acción, tocas a una criatura y gastas 10 puntos de Luz de Luz Tormentosa. Si la criatura no está dispuesta, debe superar un tirada de salvación de Carisma o ser teletransportada a un espacio desocupado que puedas ver en un radio de 60 pies.
+Cuando alcanzas el 11º nivel, puedes intentar desplazar a una criatura.
+Como acción, tocas a una criatura y gastas 10 puntos de Luz de Luz Tormentosa. Si la criatura no está dispuesta, debe superar un tirada de salvación de Carisma o ser teletransportada a un espacio desocupado que puedas ver en un radio de 60 pies sin incluir espacios por encima del usuario.
 
 Puedes usar este rasgo una vez, y no puedes volver a usarlo hasta que termines un descanso corto o largo.
 
 **Conjunción Realmática**
 A 15º nivel, tu conexión con el Reino Cognitivo te permite resistir la muerte. Cuando tus puntos de vida a 0 y estás bajo los efectos de la Luz de la Tormenta, consumes la Luz de la Tormenta que tengas en tu cuerpo. 
 
-Recuperas 4 puntos de vida por cada 20 puntos de Luz de la Tormenta consumido, hasta la mitad de tus puntos de vida máximos y desapareces en el plano etéreo. Reapareces al inicio de tu siguiente turno en el lugar donde caíste inconsciente. Si queda Luz de la Tormenta sin consumir en tu cuerpo después de reaparecer, la expulsas por completo.
+Recuperas 4 puntos de vida por cada 20 puntos de Luz de la Tormenta consumido, hasta la mitad de tus puntos de vida máximos y desapareces en el plano etéreo. Reapareces al inicio de tu siguiente turno en el lugar donde caíste derribado. Si queda Luz de la Tormenta sin consumir en tu cuerpo después de reaparecer, la expulsas por completo.
 
 Una vez que usas este rasgo, debes terminar un largo descanso antes de volver a usarla.
 
@@ -118,17 +119,20 @@ A 3º nivel, obtienes un estilo de combate entre:
 - Lucha con 2 armas
 
 **Crear calor**
-A 7º nivel, puedes aumentar la abrasión de una criatura para hacerla más débil contra el calor. Cuando utilizas la potencia de división, puedes elegir uno de los objetivos del hechizo. Esa criatura debe hacer una tirada de salvación de Constitución contra tu hechizo, teniendo vulnerabilidad contra el daño de fuego hasta el hasta el comienzo de su siguiente turno si falla, y no se verá afectada si falla, y no le afecta si tiene éxito.
+A 7º nivel, puedes aumentar la abrasión de una criatura para hacerla más débil contra el calor. Cuando utilizas la potencia de división. Esa criatura debe hacer una tirada de salvación de Constitución, teniendo vulnerabilidad contra el daño de fuego hasta el hasta el comienzo de su siguiente turno si falla,  no le afecta si tiene éxito.
 
 Puedes usar este rasgo un número de veces igual a tu bono de competencia, y recuperas todos los usos gastados cuando
 cuando terminas un descanso largo.
 
 **Soplo de ceniza**
-A 10º nivel, aprendes a controlar la ceniza creada por la potencia de división. Cuando utilizas tu potencia de división puedes, como acción gratuita, atraer la ceniza hacia ti. En cualquier momento antes de que tomes un descanso largo, si un enemigo te golpea con un ataque cuerpo a cuerpo, puedes usar tu reacción para hacer que la ceniza resople contra tu atacante. Deben tener éxito en una tirada de salvación de Constitución contra tu CD de Caballero Radiante o sufrir desventaja en todas las tiradas de ataque y tiradas de salvación durante 3 turnos. Una criatura puede repetir esta tirada al final de su turno, terminando el efecto con un éxito.
+A 11º nivel, aprendes a controlar la ceniza creada por la potencia de división. Cuando utilizas tu potencia de división puedes, como acción gratuita, atraer la ceniza hacia ti. En cualquier momento antes de que tomes un descanso largo, si un enemigo te golpea con un ataque cuerpo a cuerpo, puedes usar tu reacción para hacer que la ceniza resople contra tu atacante. Deben tener éxito en una tirada de salvación de Constitución contra tu CD de Caballero Radiante o sufrir desventaja en todas las tiradas de ataque y tiradas de salvación durante 3 turnos. Una criatura puede repetir esta tirada al final de su turno, terminando el efecto con un éxito.
 
 **Dominio de la resonancia**
-A 15º nivel, tu control sobre tus oleadas es inigualable.
+A 15º nivel, tu control sobre tus potencias es inigualable.
 Cuando estás bajo el efecto de la Luz de la Tormenta, puedes utilizar tu rasgo Crear Calor sin gastar un uso de él.
+
+Puedes usar este rasgo un número de veces igual a tu bono de competencia, y recuperas todos los usos gastados cuando
+cuando terminas un descanso largo.
 
 
 # Escultores de Voluntad
@@ -138,14 +142,10 @@ atraer a constructores, artesanos y otras personas, sus miembros solían ser var
 #### Ideales: 
 Los Ideales de la Orden de los Escultores de Voluntad se centran en la libertad individual y la autonomía. Los Escultores de Voluntad defienden la autoexpresión y la libertad de elección para todos.
 
-#### Potencias
-- **Transporte**
-A 3er nivel obtienes el primer rasgo de la oleada de transporte. A 13º nivel, obtiene el segundo.
-
-- **Tensión**
-A 6º nivel, obtienes el primer rasgo de la oleada de tensión. A 17º nivel, obtiene el segundo.
-
 ## Características de clase
+**Acceso a las potencias**
+A 3º nivel, obtienes el primer rasgo de la potencia de Transporte y Tension
+
 - Explorador
 A 7º nivel Tu amor natural por la exploración y tu experiencia en atravesar ciertos terrenos te otorgan ciertos beneficios. Elige uno de los siguientes
 
@@ -218,6 +218,7 @@ A partir del nivel l4, tienes ventaja en los chequeos y tiradas de salvación co
 A 15º nivel, 
 
 # Forjador de vínculos
+#Acabar 
 Si bien cada orden de Radiantes tiene diversidad de personalidades entre sus miembros, aquellos que se unen a los Forjadores de Vínculos generalmente aceptan una filosofía de paz y unidad. Buscan la unidad a cualquier escala, desde unir a los altos príncipes en un solo reino y con un solo propósito Esta filosofía se ve reflejada en sus Ideales, que generalmente tienen como tema central la unidad. Unir a las personas es su mayor vocación y su deber más importante como Radiantes. De entre todas las órdenes, el papel de los Forjadores de Vínculos como corazón y alma de los Radiantes los convierte en una de las órdenes más respetadas y célebres, por lo que su protección y seguridad son una preocupación fundamental.
 Si algún spren se ha vinculado con una persona antes tiene que existir un forjador de vínculos.
 
@@ -235,4 +236,4 @@ A 6º nivel, obtiene el primer rasgo de la oleada de adhesión. A 17º nivel, ob
 **Perpendicularidad de los honores**
 A 7º nivel, aprendes a aprovechar el poder de la tormenta alta para recargar la magia a tu alrededor. Como acción, elige cualquier número de criaturas a 10 pies de ti. Por cada una de esas criaturas restaura hasta 1/4 de tu nivel (redondeado hacia abajo) en niveles de ranura de conjuro, puntos de Ki, puntos de Hechicero, 1/4 de tu nivel * 10 puntos de luz de tormenta, 1 uso de furia, 1 uso de forma salvaje, 1 uso de canalizar divinidad, o 1 uso de indomable o segundo viento.
 
-Falta los custodios de piedra #Acabar 
+Falta los custodios de piedra 
