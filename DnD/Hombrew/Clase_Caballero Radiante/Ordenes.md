@@ -99,7 +99,6 @@ Recuperas 4 puntos de vida por cada 20 puntos de Luz de la Tormenta consumido, h
 Una vez que usas este rasgo, debes terminar un largo descanso antes de volver a usarla.
 
 # Portadores de polvo
-#Acabar 
 Un Portadores de polvo se puede resumir en pocas palabras: Muévete rápido y rompe cosas. Manejan las oleadas de abrasión y división para destruir el mayor número posible de cosas. Los Portadores de polvo no conocen más juramento que el primero. Se unen a los Cenizaspren. Los Cenizaspren sienten una curiosidad morbosa por el interior de las personas. Esto puede deberse al hecho de que los cuerpos de los Cenizaspren se disuelven y reforman constantemente.
 
 #### Ideales: 
@@ -112,11 +111,8 @@ Los ideales de la Orden de los Portadores del Polvo se centran en la responsabil
 **Acceso a las potencias**
 A 3º nivel, obtienes el primer rasgo de la potencia de abrasión y división
 
-**Guerrero empedernido**
-A 3º nivel, obtienes un estilo de combate entre:
-- Técnica Superior
-- Arma a 2 manos
-- Lucha con 2 armas
+**Titulo** #Acabar 
+A 3º nivel, 
 
 **Crear calor**
 A 7º nivel, puedes aumentar la abrasión de una criatura para hacerla más débil contra el calor. Cuando utilizas la potencia de división. Esa criatura debe hacer una tirada de salvación de Constitución, teniendo vulnerabilidad contra el daño de fuego hasta el hasta el comienzo de su siguiente turno si falla,  no le afecta si tiene éxito.
@@ -137,26 +133,26 @@ cuando terminas un descanso largo.
 
 # Escultores de Voluntad
 #Acabar 
-atraer a constructores, artesanos y otras personas, sus miembros solían ser variados en su profesión. También eran de personalidad variada, pero en general disfrutaban descubriendo cosas nuevas, inusuales y extrañas; también se les consideraba caprichosos y poco fiables, lo que hacía que fuera algo frustrante relacionarse con ellos. Se encargaban de construir y apoyar a las sociedades; ayudaban a los que se resistían a la tiranía y la opresión. También eran constructores literales: en tiempos de paz, utilizaban sus poderes para ayudar a construir edificios e infraestructuras, así como para formar a los que vivían en ellos; en tiempos de guerra, fortificaban las ciudades; y una vez terminada la batalla, al igual que su Heraldo patrón, viajaban para enseñar a la gente oficios como la elaboración del bronce o la sanidad.
+Esta orden suele atraer a constructores, artesanos y otras personas, sus miembros solían ser variados en su profesión. También eran de personalidad variada, pero en general disfrutaban descubriendo cosas nuevas, inusuales y extrañas; también se les consideraba caprichosos y poco fiables, lo que hacía que fuera algo frustrante relacionarse con ellos. Se encargaban de construir y apoyar a las sociedades; ayudaban a los que se resistían a la tiranía y la opresión. También eran constructores literales: en tiempos de paz, utilizaban sus poderes para ayudar a construir edificios e infraestructuras, así como para formar a los que vivían en ellos; en tiempos de guerra, fortificaban las ciudades; y una vez terminada la batalla, al igual que su Heraldo patrón, viajaban para enseñar a la gente oficios como la elaboración del bronce o la sanidad.
 
 #### Ideales: 
-Los Ideales de la Orden de los Escultores de Voluntad se centran en la libertad individual y la autonomía. Los Escultores de Voluntad defienden la autoexpresión y la libertad de elección para todos.
+Los Ideales de la Orden de los Escultores de Voluntad se centran en la libertad y la autonomía. Los Escultores de Voluntad defienden la autoexpresión y la libertad de elección para todos.
 
 ## Características de clase
 **Acceso a las potencias**
 A 3º nivel, obtienes el primer rasgo de la potencia de Transporte y Tension
 
-- Explorador
-A 7º nivel Tu amor natural por la exploración y tu experiencia en atravesar ciertos terrenos te otorgan ciertos beneficios. Elige uno de los siguientes
+**Enlace Empático**
+A 3º nivel, el usuario puede establecer un vínculo emocional con una persona durante un corto período de tiempo. Esta habilidad le permite sentir las emociones básicas de la persona objetivo y comunicarse telepáticamente en un nivel emocional, lo que facilita la comprensión y la empatía.
 
-- **Pastizales**: Como acción puedes gastar 20 puntos de luz de tormenta para lanzar el hechizo retirada expeditiva a 1er nivel.
-- **Bosques**: Puedes intentar esconderte incluso cuando estés ligeramente oculto por el follaje, la lluvia intensa, la nieve que cae, la niebla y otros fenómenos naturales.
-- **Bibliotecas**: En el improbable caso de que no sepas algo, al menos sabes dónde encontrarlo. También obtienes competencia en Arcanos, Religión o Naturaleza. 
-- **Calles de la ciudad**: Sabes instintivamente dónde encontrar las callejuelas de una ciudad. Obtienes ventaja al huir de una ciudad si tu perseguidor no tiene este mismo conocimiento.
-- **Infra oscuridad**: Obtienes visión nocturna hasta 60 pies. Si ya tienes visión nocturna, amplía su radio en 18 m. Aumenta tu percepción pasiva (sabiduría) en 2. 
-- **Bajo el agua**: Obtienes una velocidad de nado igual a tu velocidad al caminar y puedes aguantar la respiración hasta el doble de tiempo que una persona normal.
-- **Tundra**: No sufres ninguno de los efectos adversos de viajar en altitudes superiores a 20.000 y con ropa de clima frío no sufres frío. Además, cuando quemas luz de tormenta, tienes resistencia al daño por frío.
-- **Desierto**: Cuando viajas por el desierto, siempre sabes dónde encontrar agua. Además, tienes resistencia al daño por fuego mientras quemas luz de tormenta.
+**Titulo**
+A 7º nivel, 
+
+**Titulo**
+A 11º nivel,
+
+**Titulo**
+A 15º nivel,
 
 # Danzantes del filo
 Los Danzantes del Filo se adhieren generalmente a una filosofía de recordar a las personas corrientes del mundo. La orden considera su solemne deber tener presente que a quien sirven realmente es a la gente. Incluso aspiran a escuchar y recordar a sus enemigos, ya que sus historias podrían darles una nueva perspectiva. Los Danzantes del Filo creen que su deber es cuidar de la gente común y mejorar sus vidas diarias, y son similares a los buenos samaritanos. Dentro de la fuerza de los guerreros radiantes se les consideraba médicos de campo.
