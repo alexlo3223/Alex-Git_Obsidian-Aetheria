@@ -190,32 +190,24 @@ Los que se unen a los Rompedores del Cielo generalmente creen en seguir un códi
 
 #### Ideales:
 Los Ideales de la Orden de los Rompedores del Cielo se concentran en luchar por la justicia, defender códigos y proteger la civilización. Sus Ideales e interpretaciones serían compatibles con la filosofía de el fin justifica los medios.
-
-#### Potencias
-**Gravitación**
-A 3er nivel obtiene el primer rasgo de la oleada de gravitación. A 13º nivel, obtiene el segundo.
-
-**División**
-A 7º nivel, obtienes el primer rasgo de la oleada de división. A 17º nivel, obtiene el segundo
-
 ## Características de clase
 
 **Acceso a las potencias**
 A 2º nivel, obtienes el primer rasgo de la potencia de Gravitación y División.
 
 **Pago**
-A 2º nivel, cuando una criatura te golpea con un ataque cuerpo a cuerpo puedes hacer un ataque de arma cuerpo a cuerpo contra esa criatura como reacción si está a tu alcance.
+A 2º nivel, cuando una criatura te daña con un ataque cuerpo a cuerpo puedes hacer un ataque de arma cuerpo a cuerpo contra esa criatura como reacción si está a tu alcance.
 
 **Juez perspicaz**
-A 7º nivel, tu bonificador de competencia se duplica para tu habilidad de perspicacia. Además, tras un chequeo de Sabiduría (Perspicacia) contra una criatura, tienes ventaja en tu siguiente ataque ataque contra ella durante 1 minuto o hasta que tengas éxito en un chequeo de control de Sabiduría (Perspicacia) contra una criatura.
+A 7º nivel, tu bonificador de competencia se duplica para tu habilidad de perspicacia. Además, tras un chequeo de Sabiduría (Perspicacia) contra una criatura, obtienes ventaja en tu siguiente ataque ataque contra ella durante 1 minuto o hasta que tengas éxito en un chequeo de control de Sabiduría (Perspicacia) contra una criatura.
 
 **Alta resistencia**
 A 11º nivel, tienes ventaja en los chequeos y tiradas de salvación contra el encantamiento y el miedo.
 
-**Titulo**
+**Titulo** #Acabar 
 A 15º nivel, 
 
-# Forjador de vínculos
+# Forjador de vínculos #Acabar 
 #Acabar 
 Si bien cada orden de Radiantes tiene diversidad de personalidades entre sus miembros, aquellos que se unen a los Forjadores de Vínculos generalmente aceptan una filosofía de paz y unidad. Buscan la unidad a cualquier escala, desde unir a los altos príncipes en un solo reino y con un solo propósito Esta filosofía se ve reflejada en sus Ideales, que generalmente tienen como tema central la unidad. Unir a las personas es su mayor vocación y su deber más importante como Radiantes. De entre todas las órdenes, el papel de los Forjadores de Vínculos como corazón y alma de los Radiantes los convierte en una de las órdenes más respetadas y célebres, por lo que su protección y seguridad son una preocupación fundamental.
 Si algún spren se ha vinculado con una persona antes tiene que existir un forjador de vínculos.
