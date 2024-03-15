@@ -44,10 +44,10 @@ Tras el primer ideal, progresan diciendo verdades. Secretos que los Tejedores de
 
 ## Características de clase
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de las potencias de iluminación y transformación.
+A 2º nivel, obtienes el primer rasgo de las potencias de iluminación y transformación.
 
 **Artista novato**
-A 3º nivel, adquieres competencia en un tipo de herramientas artesanales de tu elección, el kit de disfraz y en las habilidades Engaño y Actuación.
+A 2º nivel, adquieres competencia en un tipo de herramientas artesanales de tu elección, el kit de disfraz y en las habilidades Engaño y Actuación.
 
 **Realidad Ilusoria**
 A 7º nivel,  has aprendido el secreto de entretejer en tus ilusiones para darles una semi-realidad. Cuando creas una ilusión, puedes elegir un objeto inanimado no mágico que forme parte de la ilusión y convertirlo en real. 
@@ -74,10 +74,10 @@ Los Ideales de la Orden de los Nominadores de lo Otro se centran en progresar co
 ## Características de clase
 
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de las potencias de transporte y transformación.
+A 2º nivel, obtienes el primer rasgo de las potencias de transporte y transformación.
 
 **Fluctuación planar**
-Cuando te mueves, viajas a través de otros planos.
+A 2º nivel, cuando te mueves, viajas a través de otros planos.
 Una vez en cada turno, mientras estés bajo los efectos de Luz de tormenta, puedes perder hasta la mitad de tu movimiento para teletransportarte la distancia perdida. Debes teletransportarte a un espacio desocupado que puedas ver.
 
 Puedes utilizar este rasgo un número de veces igual a tu bonificador de competencia, y recuperas todos los usos gastados cuando terminas un descanso largo.
@@ -109,10 +109,10 @@ Los ideales de la Orden de los Portadores del Polvo se centran en la responsabil
 ## Características de clase
 
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de abrasión y división
+A 2º nivel, obtienes el primer rasgo de la potencia de abrasión y división
 
 **Titulo** #Acabar 
-A 3º nivel, 
+A 2º nivel, 
 
 **Crear calor**
 A 7º nivel, puedes aumentar la abrasión de una criatura para hacerla más débil contra el calor. Cuando utilizas la potencia de división. Esa criatura debe hacer una tirada de salvación de Constitución, teniendo vulnerabilidad contra el daño de fuego hasta el hasta el comienzo de su siguiente turno si falla,  no le afecta si tiene éxito.
@@ -140,18 +140,21 @@ Los Ideales de la Orden de los Escultores de Voluntad se centran en la libertad 
 
 ## Características de clase
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de Transporte y Tension
+A 2º nivel, obtienes el primer rasgo de la potencia de Transporte y Tensión
 
 **Enlace Empático**
-A 3º nivel, el usuario puede establecer un vínculo emocional con una persona durante un corto período de tiempo. Esta habilidad le permite sentir las emociones básicas de la persona objetivo y comunicarse telepáticamente en un nivel emocional, lo que facilita la comprensión y la empatía.
+A 2º nivel, el usuario puede establecer un vínculo emocional con una persona durante un corto período de tiempo. Esta habilidad le permite sentir las emociones básicas de la persona objetivo y comunicarse telepáticamente en un nivel emocional.
 
-**Titulo**
-A 7º nivel, 
+**Desencadenado**
+A 7º nivel, puedes liberar de sus cadenas a la gente que lo necesite.
+Si estas bajo los efectos de luz tormentosa y hay alguien atrapado o agarrado a 15 pies de ti incluyéndote puedes darle ventaja para su siguiente tirada de salvación para liberarse.
 
-**Titulo**
+Esta acción puede realizarse como acción bonus tantas veces como bonus de competencia tengas, gastando 15 de luz tormentosa.
+
+**Titulo** #Acabar 
 A 11º nivel,
 
-**Titulo**
+**Titulo** #Acabar 
 A 15º nivel,
 
 # Danzantes del filo
@@ -166,22 +169,21 @@ Los ideales de la Orden de los Danzantes del Filo se centran en recordar y defen
 Al unirte a esta Orden Radiante, adquieres competencia en las habilidades Acrobacia y Sigilo.
 
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de abrasión y progresión
+A 2º nivel, obtienes el primer rasgo de la potencia de abrasión y progresión
 
 **Don de la Naturaleza**
-A 3º nivel, un flujo de energía revitalizante recorre tu cuerpo. Eres inmune al veneno y la enfermedad.
-Además, cuando atacas a una criatura que aún no ha tomado turno, lo haces con ventaja.
+A 2º nivel, un flujo de energía revitalizante recorre tu cuerpo. Eres resistente al veneno y la enfermedad.
+Además, cuando atacas a una criatura que aún no ha tomado turno, lo haces con ventaja. #Revision
 
 **Crecimiento natural**
-A 7º nivel, los ataques de oportunidad contra ti se realizan con
-desventaja.
-Además, cuando estás bajo los efectos de luz tormentosa tienes ventaja en los chequeos de Fuerza (Atletismo) para empujar a una criatura y, si realizas la acción de Ataque en tu turno, puedes usar una acción de bonificación para intentar empujar a una criatura a 5 pies de ti.
+A 7º nivel, los ataques de oportunidad contra ti se realizan con desventaja.
+Además, cuando estás bajo los efectos de luz tormentosa tienes ventaja en los chequeos de Fuerza (Atletismo) para empujar a una criatura.
 
 **Escurridizo**
-A 10º nivel, tienes ventaja en las tiradas de salvación de Fuerza y Destreza cuando estés bajo los efectos de la luz tormentosa y no puedes ser agarrado o retenido y no puede ser movido involuntariamente.
+A 11º nivel, tienes ventaja en las tiradas de salvación de Fuerza y Destreza cuando estés bajo los efectos de la luz tormentosa y no puedes ser agarrado o retenido y no puede ser movido involuntariamente.
 
 **Resonancia de la naturaleza**
-A 15º nivel, cuando uses la potencia de progresión, para curar a un aliado puedes curar a otro aliado o a ti mismo tu bono de competencia.
+A 15º nivel, cuando uses la potencia de progresión, para curar a un aliado puedes curar a otro aliado o a ti mismo tu.
 Esta habilidad se puede hacer tantas veces como tu bono de WIS.
 # Rompedores del Cielo
 Los que se unen a los Rompedores del Cielo generalmente creen en seguir un código moral fuerte. Desean prevenir la anarquía y la tiranía por igual. Para hacerlo, hacen a todos cumplir la ley. Particularmente tratan de evitar que las otras Órdenes de Radiantes usen sus poderes para violar la ley y se conviertan en tiranos. Usaban códigos morales y estructuras legales para luchar por la justicia y las causas en las que creían. Se unen a los altospren.
@@ -199,16 +201,16 @@ A 7º nivel, obtienes el primer rasgo de la oleada de división. A 17º nivel, o
 ## Características de clase
 
 **Acceso a las potencias**
-A 3º nivel, obtienes el primer rasgo de la potencia de Gravitación y División.
+A 2º nivel, obtienes el primer rasgo de la potencia de Gravitación y División.
 
-Pago
-A 3º nivel, cuando una criatura te golpea con un ataque cuerpo a cuerpo puedes hacer un ataque de arma cuerpo a cuerpo contra esa criatura como reacción si está a tu alcance.
+**Pago**
+A 2º nivel, cuando una criatura te golpea con un ataque cuerpo a cuerpo puedes hacer un ataque de arma cuerpo a cuerpo contra esa criatura como reacción si está a tu alcance.
 
 **Juez perspicaz**
 A 7º nivel, tu bonificador de competencia se duplica para tu habilidad de perspicacia. Además, tras un chequeo de Sabiduría (Perspicacia) contra una criatura, tienes ventaja en tu siguiente ataque ataque contra ella durante 1 minuto o hasta que tengas éxito en un chequeo de control de Sabiduría (Perspicacia) contra una criatura.
 
 **Alta resistencia**
-A partir del nivel l4, tienes ventaja en los chequeos y tiradas de salvación contra el encantamiento y el miedo.
+A 11º nivel, tienes ventaja en los chequeos y tiradas de salvación contra el encantamiento y el miedo.
 
 **Titulo**
 A 15º nivel, 
