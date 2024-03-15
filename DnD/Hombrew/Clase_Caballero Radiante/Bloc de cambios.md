@@ -4,4 +4,7 @@
 - En [[Ordenes#Nominadores de lo Otro|los nominadores del otro]] he cambiado y arreglado un par de cosas para que las cosas no estén ni rotas ni mal redactadas.
 - He cambiado la redacción para aclarar como funciona las habilidades de [[Ordenes#Portadores de polvo|los portadores del polvo]] a parte de eliminar la primera habilidad de estilo de combate para ponerlo en la clase y asi lo tengan todas las ordenes.
 - He añadido la elección de un estilo de combate.
+- He añadido nada 2 habilidades a [[Ordenes#Escultores de Voluntad|los escultores de voluntad]].
+- He pulido las habilidades de [[Ordenes#Danzantes del filo|los danzantes del filo]] y he puesto una de ellas en revisión.
+- 
 # Cambios potencias
