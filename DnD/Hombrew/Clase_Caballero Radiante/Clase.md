@@ -114,6 +114,9 @@ A 2º nivel, ganas una mejora de estadísticas basada en el spren, las estadíst
 	Spren: Suele ser un tipo de entidad la cual es percibido como una deidad por la gente aunque sea un spren.
 	Utilizan las potencias de tension y adhesion.
 
+### Especialidad de combate
+A 3º nivel, puedes elegir un estilo de combate a tu elección.
+
 ### Mejora de la puntuación de habilidad
 A 4º nivel, y de nuevo en los niveles 8º, 12º, 16º y 19º, puedes aumentar 1 puntuación de habilidad en 2 o 2 puntuaciones de habilidad en 1. Como de costumbre, no puedes aumentar una puntuación de habilidad por encima de 20 con este rasgo.
 
