@@ -6,5 +6,6 @@
 - He añadido la elección de un estilo de combate.
 - He añadido nada 2 habilidades a [[Ordenes#Escultores de Voluntad|los escultores de voluntad]].
 - He pulido las habilidades de [[Ordenes#Danzantes del filo|los danzantes del filo]] y he puesto una de ellas en revisión.
+- He revisado [[Ordenes#Rompedores del Cielo|los rompedores del cielo]] y diría que esta bien excepto la ultima habilidad que no esta escrita porque no tengo ideas.
 - 
 # Cambios potencias
