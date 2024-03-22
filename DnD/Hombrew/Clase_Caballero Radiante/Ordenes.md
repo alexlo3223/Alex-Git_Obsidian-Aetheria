@@ -223,6 +223,22 @@ A 3er nivel, obtienes el primer rasgo de la oleada de cohesión. A 13º nivel, o
 A 6º nivel, obtiene el primer rasgo de la oleada de adhesión. A 17º nivel, obtiene el segundo.
 
 ## Características de clase
+
+**Acceso a las potencias**
+A 2º nivel, obtienes el primer rasgo de la potencia de Cohesión y Adhesión.
+
+**Titulo**
+A 2º nivel, 
+
+**Titulo**
+A 7º nivel, 
+
+**Tirulo**
+A 11º nivel,
+
+**Titulo** #Acabar 
+A 15º nivel, 
+
 **Perpendicularidad de los honores**
 A 7º nivel, aprendes a aprovechar el poder de la tormenta alta para recargar la magia a tu alrededor. Como acción, elige cualquier número de criaturas a 10 pies de ti. Por cada una de esas criaturas restaura hasta 1/4 de tu nivel (redondeado hacia abajo) en niveles de ranura de conjuro, puntos de Ki, puntos de Hechicero, 1/4 de tu nivel * 10 puntos de luz de tormenta, 1 uso de furia, 1 uso de forma salvaje, 1 uso de canalizar divinidad, o 1 uso de indomable o segundo viento.
 
