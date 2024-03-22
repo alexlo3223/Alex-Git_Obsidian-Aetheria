@@ -208,7 +208,6 @@ A 11º nivel, tienes ventaja en los chequeos y tiradas de salvación contra el e
 A 15º nivel, 
 
 # Forjador de vínculos #Acabar 
-#Acabar 
 Si bien cada orden de Radiantes tiene diversidad de personalidades entre sus miembros, aquellos que se unen a los Forjadores de Vínculos generalmente aceptan una filosofía de paz y unidad. Buscan la unidad a cualquier escala, desde unir a los altos príncipes en un solo reino y con un solo propósito Esta filosofía se ve reflejada en sus Ideales, que generalmente tienen como tema central la unidad. Unir a las personas es su mayor vocación y su deber más importante como Radiantes. De entre todas las órdenes, el papel de los Forjadores de Vínculos como corazón y alma de los Radiantes los convierte en una de las órdenes más respetadas y célebres, por lo que su protección y seguridad son una preocupación fundamental.
 Si algún spren se ha vinculado con una persona antes tiene que existir un forjador de vínculos.
 
@@ -243,3 +242,23 @@ A 15º nivel,
 A 7º nivel, aprendes a aprovechar el poder de la tormenta alta para recargar la magia a tu alrededor. Como acción, elige cualquier número de criaturas a 10 pies de ti. Por cada una de esas criaturas restaura hasta 1/4 de tu nivel (redondeado hacia abajo) en niveles de ranura de conjuro, puntos de Ki, puntos de Hechicero, 1/4 de tu nivel * 10 puntos de luz de tormenta, 1 uso de furia, 1 uso de forma salvaje, 1 uso de canalizar divinidad, o 1 uso de indomable o segundo viento.
 
 Falta los custodios de piedra 
+# Custodio de piedra
+
+#### Ideales:
+
+## Características de clase
+
+**Acceso a las potencias**
+A 2º nivel, obtienes el primer rasgo de la potencia de Cohesión y Adhesión.
+
+**Titulo**
+A 2º nivel, 
+
+**Titulo**
+A 7º nivel, 
+
+**Tirulo**
+A 11º nivel,
+
+**Titulo** #Acabar 
+A 15º nivel, 
