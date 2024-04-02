@@ -214,13 +214,6 @@ Si algún spren se ha vinculado con una persona antes tiene que existir un forja
 #### Ideales:
 Todos los Ideales de la orden de los Forjadores de Vínculos se centran en unir a las personas. Sin embargo, debido a la naturaleza única de los spren Forjadores de Vínculos, los Ideales a nivel individual pueden adoptar diferentes formas, en función del spren al que estén vinculados y de la situación.
 
-#### Potencias
-**Cohesión**
-A 3er nivel, obtienes el primer rasgo de la oleada de cohesión. A 13º nivel, obtiene el segundo.
-
-**Adhesión**
-A 6º nivel, obtiene el primer rasgo de la oleada de adhesión. A 17º nivel, obtiene el segundo.
-
 ## Características de clase
 
 **Acceso a las potencias**
@@ -243,13 +236,14 @@ A 7º nivel, aprendes a aprovechar el poder de la tormenta alta para recargar la
 
 Falta los custodios de piedra 
 # Custodio de piedra
-
+Filosofía de la orden
 #### Ideales:
+Ideales de la orden
 
 ## Características de clase
 
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de Cohesión y Adhesión.
+A 2º nivel, obtienes el primer rasgo de la potencia de ? y ?.
 
 **Titulo**
 A 2º nivel, 
