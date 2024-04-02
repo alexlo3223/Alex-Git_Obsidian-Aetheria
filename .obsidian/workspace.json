@@ -8,67 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af07a7a36ab1c892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Bloc de cambios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1f5ab37dfed81bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47f4f20a8155e210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07f649122590dc66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1c3cff24cb33ad06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
-                "mode": "source",
-                "source": false
+                "file": "DnD/Aetheria/Aetheria.canvas",
+                "viewState": {
+                  "x": 3621.5504863236592,
+                  "y": 540.2948632258815,
+                  "zoom": -2.0833333333333335
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+                "file": "DnD/Aetheria/Aetheria.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+                "file": "DnD/Aetheria/Aetheria.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md"
+                "file": "DnD/Aetheria/Aetheria.canvas"
               }
             }
           }
@@ -196,16 +150,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "47f4f20a8155e210",
+  "active": "1c3cff24cb33ad06",
   "lastOpenFiles": [
+    "img.webp",
+    "DnD/Aetheria/Aetheria.canvas",
+    "Pasted image 20240402153722.png",
+    "aetheria-240402_1333.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
+    "DnD/Aetheria/Bienvenido a Aetheria.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Bloc de cambios.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
     "Pasted image 20240213184124.png",
-    "DnD/Aetheria/Bienvenido a Aetheria.md",
     "DnD/Campañas/Reedme.md",
     "DnD/Aetheria/Razas/Changeling.md",
     "DnD/Aetheria",
@@ -233,8 +191,6 @@
     "DnD/Aetheria/Razas/Humanos.md",
     "DnD/Aetheria/Razas/Goblins.md",
     "DnD/Aetheria/Razas/Firbolg.md",
-    "DnD/Aetheria/Razas/Elfos.md",
-    "DnD/Aetheria/Razas/Duregard.md",
     "DnD/Aetheria/Razas",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/town boy.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Pupet master.jpg",
@@ -242,8 +198,6 @@
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Noble mujer.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Kholin guards.jpg",
     "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Jefe de la guarda.jpg",
-    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Gemologist.jpg",
-    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Ciber noble.jpg",
-    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Alta mujer.jpg"
+    "DnD/Aetheria/Imagenes/Ubicaciones/Erindor/Kaltara/Aethetic de Kaltara/Gemologist.jpg"
   ]
 }
