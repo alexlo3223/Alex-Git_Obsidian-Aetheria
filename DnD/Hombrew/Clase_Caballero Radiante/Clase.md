@@ -25,14 +25,6 @@ Empiezas con el siguiente equipo, además del que te otorga tu trasfondo:
 
 # Habilidades de Clase:
 
-### Habilidades anteriores:
-Lvl 1Es importante saber que antes de ser un potenciador era una persona con su oficio con sus estudios , hobbies, amigos y rasgos diferenciales o simplemente era de otra clase hasta el momento de ser vinculado con un spren.
-
-Obtienes los siguientes beneficios:
-**a**) un feat/ pericia en una habilidad
-**b**)Una mejora de puntuación de habilidad y una competencia con una habilidad / pericia en una habilidad
-**c**) Un lenguaje aprendido, una competencia con una herramienta y una competencia de habilidad(pero no pericia)
-
 ### Enlace Spren:
 Lv 1
 Los Spren son criaturas de la naturaleza. Tienden a ser ignorados y a pasar desapercibidos. Toman diferentes formas, apareciendo alrededor de ciertos eventos, ideas o anormalidades.
@@ -56,6 +48,7 @@ Esta reserva se puede reponer utilizando tu acción de bonificación y añadiend
 
 Siempre que uses este rasgo de clase o al comienzo de cada uno de tus turnos, la reserva pierde luz tormentosa según la tabla y obtienes los siguientes beneficios hasta el comienzo de tu siguiente turno:
 + +5 de velocidad
++ +1 a tiradas de salvación
 - No necesitas respirar, a menos que quieras inhalar mas luz tormentosa
 - Arrojas luz brillante en un radio de 1,5 m y luz tenue en un radio adicional de 2 m.(en el caso de estar inspirando una cantidad considerable de luz tormentosa, cuanto menos luz tengas en el cuerpo menos brillas)
 
@@ -63,7 +56,7 @@ Si tienes menos de los puntos requeridos en la tabla en tu reserva, no se drenan
 Como acción, puedes imbuir cualquier número de puntos de Luz de Tormenta en una gema, incluyendo tu gema de Luz de Tormenta. Si se trata de una gema normal, la gema emite luz brillante en 5 pies y luz tenue en 15 pies adicionales. 
 
 **Exhausto de luz**
-En el caso que hayas consumido 4/5 de luz tormentosa en un lapso de 3 horas, te sentirás exhausto y débil ya que tu cuerpo no puede seguir el ritmo de la luz tormentosa.
+En el caso que hayas consumido mas de la mitad de luz tormentosa en un lapso de 1 horas, en el momento que dejes de consumir luz te sentirás exhausto y débil ya que tu cuerpo no puede seguir el ritmo de la luz tormentosa.
 
 En el momento que se gaste la reserva de luz tormentosa y haya pasado ese lapso, obtienes 2 puntos de exhausto.
 
@@ -81,7 +74,7 @@ Esmeralda 1000gp (30 de Luz Tormentosa)
 Diamante 1500gp (40 de Luz Tormentosa)
 ==Gold point colocados en caso de querer usarlo de moneda==
 
-Además, algunos rasgos de clase del Caballero Radiante requieren tiradas de salvación. En este caso la DC es 8 + tu bonificador de competencia + tu modificador de carisma.
+Además, algunos rasgos de clase del Caballero Radiante requieren tiradas de salvación. En este caso la DC es 8 + nivel de caballero radiante + tu modificador de carisma.
 
 ### Orden de los Caballeros Radiantes
 A 2º nivel, ganas una mejora de estadísticas basada en el spren, las estadísticas individuales ganan +2 por nivel de vínculo mientras que otras ganan +1 de cada una.
