@@ -21,8 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "f98f6bbf27734ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas"
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md"
               }
             }
           }
@@ -150,10 +163,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1c3cff24cb33ad06",
+  "active": "f98f6bbf27734ea5",
   "lastOpenFiles": [
-    "img.webp",
     "DnD/Aetheria/Aetheria.canvas",
+    "img.webp",
     "Pasted image 20240402153722.png",
     "aetheria-240402_1333.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
