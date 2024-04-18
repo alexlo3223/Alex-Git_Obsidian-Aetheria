@@ -11,14 +11,11 @@
             "id": "f98f6bbf27734ea5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
-                "viewState": {
-                  "x": 1058.2379876745717,
-                  "y": -6.581542711370389,
-                  "zoom": -2.0833333333333335
-                }
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Acabar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas"
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md"
               }
             }
           }
@@ -152,8 +150,9 @@
   },
   "active": "f98f6bbf27734ea5",
   "lastOpenFiles": [
-    "DnD/Aetheria/esquirlas-y-poderes-240408_1640.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
     "DnD/Aetheria/Aetheria.canvas",
+    "DnD/Aetheria/esquirlas-y-poderes-240408_1640.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
     "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/svnkit/licenses/TRILEAD-LICENSE",
     "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/svnkit/licenses/SQLJET-LICENSE",
