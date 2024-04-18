@@ -57,12 +57,11 @@ Puedes hacer esto en tu turno como una acción bonus mientras dure la ilusión. 
 Por ejemplo, puedes crear una ilusión de un puente sobre un abismo y luego hacerlo real el tiempo suficiente para que tus para que tus aliados lo crucen.
 El objeto no puede infligir daño directamente a nadie.
 
-%%Hay que mirar de hacerlo de alguna manera de que pueda hacer algo útil o que tenga chicha%%
-**Titulo** #Acabar 
-A 11º nivel, 
+**Mente mejorada**  
+A 11º nivel, la mente de un Tejedor de Luz ha mejorado, otorgándole los siguientes rasgos.** Ahora recuerdas perfectamente todo lo que has visto y oído en el último mes. También dominas una habilidad basada en el Carisma o la Inteligencia.
 
-**Titulo** #Acabar 
-A 15º nivel, 
+**Reflejo Inestable** 
+A 15º nivel, has perfeccionado tu habilidad para manipular la luz y las sombras, permitiéndote crear ilusiones que confunden a tus enemigos. Cuando lanzas una ilusión que incluye una imagen de ti mismo, puedes hacer que esa imagen parezca fluctuar y cambiar de forma sutil. Esto otorga a los enemigos que intenten atacarte desventaja en sus tiradas de ataque hasta el final de tu próximo turno, ya que no están seguros de cuál es tu verdadera posición.
 
 # Nominadores de lo Otro
 Aquellos que se unen a los Nominadores de lo Otro normalmente aceptan la filosofía de que deben mejorar con cada juramento, con el objetivo de explorar su verdadero potencial y alcanzarlo. Esta orden está más abierta a aceptar a todo tipo de personas, siempre que quieran superarse a sí mismos. Tienden a atraer a aquellos que son menos extravagantes, como eruditos, teólogos y personas interesadas en el liderazgo. Se les asocia con los atributos sabio y cuidadoso.
@@ -109,10 +108,12 @@ Los ideales de la Orden de los Portadores del Polvo se centran en la responsabil
 ## Características de clase
 
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de abrasión y división
+A 2º nivel, obtienes el primer rasgo de la potencia de abrasión. La potencia de división esta bloqueado hasta el 3er ideal
 
-**Titulo** #Acabar 
-A 2º nivel, 
+**Destrucción valiente**
+A partir del 2º nivel, has aprendido que tus poderes existen para proteger a los inocentes del daño. Mientras estés bajo los efectos de la luz tormentosa, cuando una criatura que puedas ver en un radio de 15 pies es golpeada por un ataque cuerpo a cuerpo, como reacción puedes moverte hasta la mitad de tu movimiento hacia el atacante. Esta habilidad se puede hacer tantas veces como bonificador de competencia y se recarga en descanso largo.
+
+A nivel 12, al acercarte a la criatura puedes hacerle un ataque, si esta en tu alcance.
 
 **Crear calor**
 A 7º nivel, puedes aumentar la abrasión de una criatura para hacerla más débil contra el calor. Cuando utilizas la potencia de división. Esa criatura debe hacer una tirada de salvación de Constitución, teniendo vulnerabilidad contra el daño de fuego hasta el hasta el comienzo de su siguiente turno si falla,  no le afecta si tiene éxito.
@@ -132,7 +133,6 @@ cuando terminas un descanso largo.
 
 
 # Escultores de Voluntad
-#Acabar 
 Esta orden suele atraer a constructores, artesanos y otras personas, sus miembros solían ser variados en su profesión. También eran de personalidad variada, pero en general disfrutaban descubriendo cosas nuevas, inusuales y extrañas; también se les consideraba caprichosos y poco fiables, lo que hacía que fuera algo frustrante relacionarse con ellos. Se encargaban de construir y apoyar a las sociedades; ayudaban a los que se resistían a la tiranía y la opresión. También eran constructores literales: en tiempos de paz, utilizaban sus poderes para ayudar a construir edificios e infraestructuras, así como para formar a los que vivían en ellos; en tiempos de guerra, fortificaban las ciudades; y una vez terminada la batalla, al igual que su Heraldo patrón, viajaban para enseñar a la gente oficios como la elaboración del bronce o la sanidad.
 
 #### Ideales: 
