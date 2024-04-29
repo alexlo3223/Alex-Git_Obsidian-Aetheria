@@ -32,14 +32,8 @@
 		{"id":"61f78a84f814df9c","type":"link","url":"https://app.milanote.com/media/p/images/1RP6up14QLtj7o/RlK/image.png?w=800","x":-1081,"y":2238,"width":516,"height":337},
 		{"id":"c63f8f418cdb6320","type":"link","url":"https://app.milanote.com/media/p/images/1RP5pf14QLtj7l/ps1/img.jpg?w=800","x":-1376,"y":2160,"width":295,"height":424},
 		{"id":"bc34e22edef68034","type":"link","url":"https://app.milanote.com/media/p/images/1RP5nZ14QLtj7j/eA0/img.jpg","x":-1696,"y":2159,"width":320,"height":416},
-		{"id":"3c0309a2b7d5cc5a","type":"file","file":"img 1.jpg","x":-2360,"y":1919,"width":493,"height":513},
-		{"id":"abafed01f195b8ba","type":"file","file":"img.jpg","x":-1871,"y":2160,"width":181,"height":272},
 		{"id":"6c4499533d73bff3","type":"link","url":"https://app.milanote.com/media/p/images/1ROSG21eyfL4aM/fKx/image.png","x":-2147,"y":1100,"width":280,"height":420},
-		{"id":"f67d1afdb40aad5f","type":"file","file":"img 2.jpg","x":-1926,"y":2432,"width":230,"height":332},
-		{"id":"d6185cc0fe44febb","type":"link","url":"https://app.milanote.com/media/p/images/1RP6yu14QLtj7p/Uti/image.png?w=800","x":-1696,"y":2575,"width":314,"height":241},
-		{"id":"c5e91aa72e31af9e","type":"file","file":"img.jpg","x":-2203,"y":2432,"width":277,"height":415},
-		{"id":"dcfbde73263afd52","type":"file","file":"img 4.jpg","x":-2600,"y":2432,"width":400,"height":222},
-		{"id":"628fbf61b7f7d69a","type":"file","file":"img 3.jpg","x":-2654,"y":1891,"width":294,"height":541}
+		{"id":"d6185cc0fe44febb","type":"link","url":"https://app.milanote.com/media/p/images/1RP6yu14QLtj7p/Uti/image.png?w=800","x":-1696,"y":2575,"width":314,"height":241}
 	],
 	"edges":[
 		{"id":"965f173ddfa340af","fromNode":"4857bad93a047ed8","fromSide":"bottom","toNode":"8b59c9d17cd48718","toSide":"top"},
