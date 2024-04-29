@@ -11,14 +11,11 @@
             "id": "f3edc4882a66d296",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
-                "viewState": {
-                  "x": -864.8629230401443,
-                  "y": 1688.2814026445235,
-                  "zoom": -1.9201239183150227
-                }
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas",
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Aetheria/Aetheria.canvas"
+                "file": "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md"
               }
             }
           }
@@ -152,8 +149,20 @@
   },
   "active": "f3edc4882a66d296",
   "lastOpenFiles": [
-    "img 4.jpg",
     "DnD/Aetheria/Aetheria.canvas",
+    "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
+    "Dnd/hombrew/Hechizos/Rudeza.md",
+    "DnD/Hombrew/Hechizos/Rudeza.md",
+    "Dnd/hombrew/Hechizos/Mantle.md",
+    "Dnd/hombrew/Hechizos/Empathy.md",
+    "Dnd/hombrew/Hechizos",
+    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
+    "DnD\\Aetheria\\Culturas",
+    "DnD\\Aetheria\\Bestiario",
+    "DnD\\Aetheria",
+    "img 4.jpg",
     "DnD/Aetheria/Culturas/Freshat.md",
     "DnD/Aetheria/Culturas/Dimens.md",
     "DnD/Aetheria/Culturas",
@@ -175,18 +184,10 @@
     "Dnd/Aetheria/Culturas",
     "Dnd/Aetheria/Bestiario",
     "Dnd/Aetheria/Aetheria.canvas",
-    "Dnd/Aetheria",
     "DnD/Aetheria/Bestiario.md",
     "Welcome.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Bloc de cambios.md",
-    "DnD/Hombrew/Clase_Caballero Radiante",
-    "DnD/Hombrew",
-    "DnD"
+    "DnD/Hombrew/Clase_Caballero Radiante/Bloc de cambios.md"
   ]
 }
