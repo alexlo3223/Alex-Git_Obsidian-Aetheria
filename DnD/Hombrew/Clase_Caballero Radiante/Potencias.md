@@ -153,3 +153,39 @@ Además, puedes gastar 5 puntos de luz de tormenta apuntando a cualquier terreno
 
 **Atrapar sus pies**
 A 13º nivel, tu Luz de las Tormentas puede licuar el suelo para sujetar a la gente. Como acción, puedes gastar 30 puntos de Luz de la Tormenta para hacer que el suelo en un radio de 10 pies a tu alrededor se convierta rápidamente en líquido. Cualquier otra criatura que se encuentre en el área afectada debe hacer una tirada de salvación contra tu DC de Caballero Radiante o será inmovilizada mientras sus pies se hunden en el suelo. Una salvación con éxito evita ser inmovilizado, pero la criatura se mueve inmediatamente al borde de la zona afectada más cercana a él. Al comienzo de su turno, una criatura inmovilizada puede intentar escapar realizando una salvación de Fuerza.
+
+
+# Idea
+
+Cada potencia representa una de las fuerzas fundamentales de la realidad. Cada potencia contiene una lista de hechizos y detalles adicionales.
+
+Las siguientes secciones explican con más detalle el uso de las potencias.
+## Tipos de potencias
+
+Existen dos tipos de potencias.
+**Potencias básicas.** Las potencias básicas son las 10 que afectan a
+las 10 esencias del mundo. Se obtienen a 1er nivel en la clase en la clase Caballero radiante. Tienen un vínculo y una lista de conjuros.
+
+**Sobretensiones avanzadas.** Las potencias avanzadas son específicas de cada
+Orden Radiante. Un caballero radiante obtiene su avanzado a 11º nivel. No tienen vínculo y sólo tienen una lista de hechizos.
+
+## Vínculo
+
+La sección de vínculo de una potencia determina un efecto pasivo.
+Este efecto está siempre activo mientras estés bajo los efectos de la luz tormentosa.
+
+### Potencia de la abrasión
+La Potencia de abrasión le permite alterar la fuerza de fricción entre dos superficies, la mayoría de las veces siendo uno de ellos tu mismo.
+
+**Vínculo.** Mientras estás bajo los efectos de la Luz de la Tormenta, ignoras
+terreno difícil al caminar.
+
+**Lista de Hechizos de Abrasión**
+
+| Nivel | Hechizos                                                                                |
+| ----- | --------------------------------------------------------------------------------------- |
+| 1     | [[Dnd/hombrew/Hechizos/Rudeza\|Asombroso]]*<br>[[Dnd/hombrew/Hechizos/Rudeza\|Rudeza]]* |
+| 2     | Pasar sin dejar rastro<br>Retener Persona                                               |
+| 3     | Prisa                                                                                   |
+| 4     | Libertad de Movimiento                                                                  |
+| 5     | Retener Monstruo                                                                        |
