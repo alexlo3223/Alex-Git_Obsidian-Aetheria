@@ -131,32 +131,6 @@ Cuando estás bajo el efecto de la Luz de la Tormenta, puedes utilizar tu rasgo 
 Puedes usar este rasgo un número de veces igual a tu bono de competencia, y recuperas todos los usos gastados cuando
 cuando terminas un descanso largo.
 
-
-# Escultores de Voluntad
-Esta orden suele atraer a constructores, artesanos y otras personas, sus miembros solían ser variados en su profesión. También eran de personalidad variada, pero en general disfrutaban descubriendo cosas nuevas, inusuales y extrañas; también se les consideraba caprichosos y poco fiables, lo que hacía que fuera algo frustrante relacionarse con ellos. Se encargaban de construir y apoyar a las sociedades; ayudaban a los que se resistían a la tiranía y la opresión. También eran constructores literales: en tiempos de paz, utilizaban sus poderes para ayudar a construir edificios e infraestructuras, así como para formar a los que vivían en ellos; en tiempos de guerra, fortificaban las ciudades; y una vez terminada la batalla, al igual que su Heraldo patrón, viajaban para enseñar a la gente oficios como la elaboración del bronce o la sanidad.
-
-#### Ideales: 
-Los Ideales de la Orden de los Escultores de Voluntad se centran en la libertad y la autonomía. Los Escultores de Voluntad defienden la autoexpresión y la libertad de elección para todos.
-
-## Características de clase
-**Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de Transporte y Tensión
-
-**Enlace Empático**
-A 2º nivel, el usuario puede establecer un vínculo emocional con una persona durante un corto período de tiempo. Esta habilidad le permite sentir las emociones básicas de la persona objetivo y comunicarse telepáticamente en un nivel emocional.
-
-**Desencadenado**
-A 7º nivel, puedes liberar de sus cadenas a la gente que lo necesite.
-Si estas bajo los efectos de luz tormentosa y hay alguien atrapado o agarrado a 15 pies de ti incluyéndote puedes darle ventaja para su siguiente tirada de salvación para liberarse.
-
-Esta acción puede realizarse como acción bonus tantas veces como bonus de competencia tengas, gastando 15 de luz tormentosa.
-
-**Titulo** #Acabar 
-A 11º nivel,
-
-**Titulo** #Acabar 
-A 15º nivel,
-
 # Danzantes del filo
 Los Danzantes del Filo se adhieren generalmente a una filosofía de recordar a las personas corrientes del mundo. La orden considera su solemne deber tener presente que a quien sirven realmente es a la gente. Incluso aspiran a escuchar y recordar a sus enemigos, ya que sus historias podrían darles una nueva perspectiva. Los Danzantes del Filo creen que su deber es cuidar de la gente común y mejorar sus vidas diarias, y son similares a los buenos samaritanos. Dentro de la fuerza de los guerreros radiantes se les consideraba médicos de campo.
 
@@ -233,26 +207,3 @@ A 15º nivel,
 
 **Perpendicularidad de los honores**
 A 7º nivel, aprendes a aprovechar el poder de la tormenta alta para recargar la magia a tu alrededor. Como acción, elige cualquier número de criaturas a 10 pies de ti. Por cada una de esas criaturas restaura hasta 1/4 de tu nivel (redondeado hacia abajo) en niveles de ranura de conjuro, puntos de Ki, puntos de Hechicero, 1/4 de tu nivel * 10 puntos de luz de tormenta, 1 uso de furia, 1 uso de forma salvaje, 1 uso de canalizar divinidad, o 1 uso de indomable o segundo viento.
-
-Falta los custodios de piedra 
-# Custodio de piedra
-Filosofía de la orden
-#### Ideales:
-Ideales de la orden
-
-## Características de clase
-
-**Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de ? y ?.
-
-**Titulo**
-A 2º nivel, 
-
-**Titulo**
-A 7º nivel, 
-
-**Tirulo**
-A 11º nivel,
-
-**Titulo** #Acabar 
-A 15º nivel, 
