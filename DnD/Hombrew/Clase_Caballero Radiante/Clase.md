@@ -35,10 +35,8 @@ Tu no eliges el spren lo elije el **DM**.
 - #Brumaspren
 - #Tintaspren
 - #Cenizaspren
-- #Lumispren
 - #Cultivaspren
 - #Altospren
-- #Cumbrespren
 - Entidad (Alguna entidad en tu mundo que la gente perciba como una deidad que en verdad es un spren)
 ### Luz Tormentosa:
 A 1º nivel, has aprendido a extraer poder de una gema a través de tu vínculo con un spren. Esto te otorga un gas místico conocido como Luz de la Tormenta. Estos puntos se utilizan para alimentar muchas de tus características de clase. 
@@ -77,7 +75,7 @@ Diamante 1500gp (40 de Luz Tormentosa)
 Además, algunos rasgos de clase del Caballero Radiante requieren tiradas de salvación. En este caso la DC es 8 + nivel de caballero radiante + tu modificador de carisma.
 
 ### Orden de los Caballeros Radiantes
-A 2º nivel, ganas una mejora de estadísticas basada en el spren, las estadísticas individuales ganan +2 por nivel de vínculo mientras que otras ganan +1 de cada una.
+A 1º nivel, ganas una mejora de estadísticas basada en el spren, las estadísticas individuales ganan +2 por nivel de vínculo mientras que otras ganan +1 de cada una.
 
 - **Honorspren** DEX:
 	Orden de los *Corredores del viento*.
@@ -91,9 +89,6 @@ A 2º nivel, ganas una mejora de estadísticas basada en el spren, las estadíst
 - **Cenizaspren** WIS STR:
 	Orden de los *Portadores de polvo*.
 	Utilizan las potencias de division y abrasion.
-- **Lumispren** WIS CHA
-	Orden de los *Escultores de Voluntad*.
-	Utilizan las potencias de transportacion y cohesion
 - **Cultivaspren** DEX WIS:
 	Orden de los *Danzantes del filo*
 	Utilizan las potencias de abrasion y progresion.
@@ -107,6 +102,12 @@ A 2º nivel, ganas una mejora de estadísticas basada en el spren, las estadíst
 	Spren: Suele ser un tipo de entidad la cual es percibido como una deidad por la gente aunque sea un spren.
 	Utilizan las potencias de tension y adhesion.
 
+### Curación por la Luz Tormentosa
+A partir del 2º nivel, usas tu Luz de la Tormenta para regenerar tus heridas. 
+
+Utilizando una acción bonus puedes curarte 1d4+CON, no obtienes este beneficio si tienes 0 puntos de golpe.
+Esta habilidad se puede utilizar 4 veces antes de cualquier descanso.
+Cada 2 niveles obtienes otra carga de esta habilidad.
 ### Especialidad de combate
 A 3º nivel, puedes elegir un estilo de combate a tu elección.
 
