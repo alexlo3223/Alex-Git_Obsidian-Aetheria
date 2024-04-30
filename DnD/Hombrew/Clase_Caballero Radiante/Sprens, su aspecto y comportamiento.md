@@ -23,10 +23,6 @@
 
 	 los cenizaspren aparecen como grietas que parecen crecer en las superficies o ramificarse en el aire. Cuando se mueven parecen quemar el interior de los objetos en patrones similares a los de los árboles.
 
-## #Lumispren
-
-	Los lumispren se manifiestan como una bola de luz lo suficientemente pequeña como para ocultarse en la palma de una mano. Cuando se mueven, dejan un rastro luminoso que los hace parecer un cometa. La intensidad de la luz puede aumentar o disminuir, aparentemente en función del estado de ánimo del spren. Los lumispren parecen ser un poco más tangibles que sus congéneres cuando están en el Reino Físico: el viento los empuja, están calientes, y se parecen a la seda al tocarlos. Pueden comunicarse latiendo a los ritmos de Roshar, produciendo destellos de luz y vibraciones audibles.
-
 ## #Cultivaspren
 
 	Son los spren de la naturaleza y adoptan la forma de una enredadera que crece rápidamente. Pueden formar la apariencia de una cara enroscando enredaderas unas alrededor de otras. Después de un tiempo, el rastro de enredaderas que dejan se solidifica, volviéndose como el cristal antes de desmoronarse en en polvo.
@@ -34,7 +30,3 @@
 ## #Altospren
 
 	Los Altospren propugnan seguir la letra de la ley y otros códigos legales, en lugar de hacer lo que uno considera correcto. Los Highspren se describen como como rendijas negras en la realidad, con estrellas blancas brillando a través de ellas.
-
-## #Cumbrespren
-
-	Los cumbrespren adoptan formas que parecen estar hechas de piedra. Pueden esconderse dentro de verdaderas rocas si lo desean; cuando quieren reaparecer, emergen como si sacaran su forma de la roca.
