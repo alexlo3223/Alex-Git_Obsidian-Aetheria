@@ -139,9 +139,6 @@ Los ideales de la Orden de los Danzantes del Filo se centran en recordar y defen
 
 ## Características de clase
 
-**Habilidades adicionales**
-Al unirte a esta Orden Radiante, adquieres competencia en las habilidades Acrobacia y Sigilo.
-
 **Acceso a las potencias**
 A 2º nivel, obtienes el primer rasgo de la potencia de abrasión y progresión
 
