@@ -105,9 +105,9 @@ A 1º nivel, ganas una mejora de estadísticas basada en el spren, las estadíst
 ### Curación por la Luz Tormentosa
 A partir del 2º nivel, usas tu Luz de la Tormenta para regenerar tus heridas. 
 
-Utilizando una acción bonus puedes curarte 1d4+CON, no obtienes este beneficio si tienes 0 puntos de golpe.
-Esta habilidad se puede utilizar 4 veces antes de cualquier descanso.
-Cada 2 niveles obtienes otra carga de esta habilidad.
+Utilizando una acción bonus y gastando 2 de luz tormentosa puedes curarte 1d4+CON, no obtienes este beneficio si tienes 0 puntos de golpe.
+Esta habilidad se puede utilizar 3 veces antes de cualquier descanso.
+Cada 3 niveles obtienes otra carga de esta habilidad.
 ### Especialidad de combate
 A 3º nivel, puedes elegir un estilo de combate a tu elección.
 
