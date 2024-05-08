@@ -65,7 +65,7 @@ El Armadura Esquirlada emite luz brillante en un radio de 10 pies y luz tenue en
 El Armadura Esquirlada o partes de la misma desaparece si (no requiere ninguna acción), si caes inconsciente o si mueres.
 
 ### Mejora de espada esquirlada
-La bonificación de la espada esquirlada aumenta de +2 a mas +3
+La bonificación de la espada esquirlada aumenta de +2 a +3
 
 ## Quinto ideal:
 Estimación de cuando debería hacerse: Lvl 17-18
