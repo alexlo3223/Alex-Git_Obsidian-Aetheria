@@ -12,10 +12,10 @@ Se vinculan a honorspren.
 
 ## Características de clase
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de las potencias de gravitación y adhesión.
+A 1º nivel, obtienes el primer rasgo de las potencias de gravitación y adhesión.
 
 **Gracia del viento**
-A 2º nivel, Estás listo para la batalla en cualquier momento. Puedes darte una bonificación
+A 1º nivel, Estás listo para la batalla en cualquier momento. Puedes darte una bonificación
 a tus tiradas de iniciativa igual a tu modificador de competencia.
 
 **Protegeré a los que no pueden protegerse a sí mismos**
@@ -44,10 +44,10 @@ Tras el primer ideal, progresan diciendo verdades. Secretos que los Tejedores de
 
 ## Características de clase
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de las potencias de iluminación y transformación.
+A 1º nivel, obtienes el primer rasgo de las potencias de iluminación y transformación.
 
 **Artista novato**
-A 2º nivel, adquieres competencia en un tipo de herramientas artesanales de tu elección, el kit de disfraz y en las habilidades Engaño y Actuación.
+A 1º nivel, adquieres competencia en un tipo de herramientas artesanales de tu elección, el kit de disfraz y en las habilidades Engaño y Actuación.
 
 **Realidad Ilusoria**
 A 7º nivel,  has aprendido el secreto de entretejer en tus ilusiones para darles una semi-realidad. Cuando creas una ilusión, puedes elegir un objeto inanimado no mágico que forme parte de la ilusión y convertirlo en real. 
@@ -73,10 +73,10 @@ Los Ideales de la Orden de los Nominadores de lo Otro se centran en progresar co
 ## Características de clase
 
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de las potencias de transporte y transformación.
+A 1º nivel, obtienes el primer rasgo de las potencias de transporte y transformación.
 
 **Fluctuación planar**
-A 2º nivel, cuando te mueves, viajas a través de otros planos.
+A 1º nivel, cuando te mueves, viajas a través de otros planos.
 Una vez en cada turno, mientras estés bajo los efectos de Luz de tormenta, puedes perder hasta la mitad de tu movimiento para teletransportarte la distancia perdida. Debes teletransportarte a un espacio desocupado que puedas ver.
 
 Puedes utilizar este rasgo un número de veces igual a tu bonificador de competencia, y recuperas todos los usos gastados cuando terminas un descanso largo.
@@ -108,7 +108,7 @@ Los ideales de la Orden de los Portadores del Polvo se centran en la responsabil
 ## Características de clase
 
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de abrasión. La potencia de división esta bloqueado hasta el 3er ideal
+A 1º nivel, obtienes el primer rasgo de la potencia de abrasión. La potencia de división esta bloqueado hasta el 3er ideal
 
 **Destrucción valiente**
 A partir del 2º nivel, has aprendido que tus poderes existen para proteger a los inocentes del daño. Mientras estés bajo los efectos de la luz tormentosa, cuando una criatura que puedas ver en un radio de 15 pies es golpeada por un ataque cuerpo a cuerpo, como reacción puedes moverte hasta la mitad de tu movimiento hacia el atacante. Esta habilidad se puede hacer tantas veces como bonificador de competencia y se recarga en descanso largo.
@@ -140,10 +140,10 @@ Los ideales de la Orden de los Danzantes del Filo se centran en recordar y defen
 ## Características de clase
 
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de abrasión y progresión
+A 1º nivel, obtienes el primer rasgo de la potencia de abrasión y progresión
 
 **Don de la Naturaleza**
-A 2º nivel, un flujo de energía revitalizante recorre tu cuerpo. Eres resistente al veneno y la enfermedad.
+A 1º nivel, un flujo de energía revitalizante recorre tu cuerpo. Eres resistente al veneno y la enfermedad.
 Además, cuando atacas a una criatura que aún no ha tomado turno, lo haces con ventaja. #Revision
 
 **Crecimiento natural**
@@ -164,10 +164,10 @@ Los Ideales de la Orden de los Rompedores del Cielo se concentran en luchar por 
 ## Características de clase
 
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de Gravitación y División.
+A 1º nivel, obtienes el primer rasgo de la potencia de Gravitación y División.
 
 **Pago**
-A 2º nivel, cuando una criatura te daña con un ataque cuerpo a cuerpo puedes hacer un ataque de arma cuerpo a cuerpo contra esa criatura como reacción si está a tu alcance.
+A 1º nivel, cuando una criatura te daña con un ataque cuerpo a cuerpo puedes hacer un ataque de arma cuerpo a cuerpo contra esa criatura como reacción si está a tu alcance.
 
 **Juez perspicaz**
 A 7º nivel, tu bonificador de competencia se duplica para tu habilidad de perspicacia. Además, tras un chequeo de Sabiduría (Perspicacia) contra una criatura, obtienes ventaja en tu siguiente ataque ataque contra ella durante 1 minuto o hasta que tengas éxito en un chequeo de control de Sabiduría (Perspicacia) contra una criatura.
@@ -188,19 +188,23 @@ Todos los Ideales de la orden de los Forjadores de Vínculos se centran en unir 
 ## Características de clase
 
 **Acceso a las potencias**
-A 2º nivel, obtienes el primer rasgo de la potencia de Cohesión y Adhesión.
+A 1º nivel, obtienes el primer rasgo de la potencia de Cohesión y Adhesión.
 
-**Titulo**
-A 2º nivel, 
+**Errores anteriores**
+A 1º nivel, tu spren te enviara visiones de los antiguos forjadores de vínculos, solo se transporta la mente, puedes sentir dolor pero no lo recibirás en el mundo real, si quedas inconsciente en una visión esta colapsara y volverás al mundo físico.
 
-**Titulo**
-A 7º nivel, 
+Cuando pronuncies el segundo ideal podrás ver las visiones a voluntad y llevarte a ellas a las personas que estén en contacto contigo o tu spren.
+
+**Perpendicularidad de los honores**
+A 7º nivel, aprendes a aprovechar el poder de la alta tormenta para recargar la magia a tu alrededor. Como acción, elige cualquier número de criaturas a 10 pies de ti para que recarguen una de las siguientes opciones. 
+
+Para cada una de esas criaturas restaura hasta 1/4 de tu nivel (redondeado hacia abajo) en niveles de ranura de conjuro, puntos de Ki, puntos de Hechicero, 1/4 de tu nivel * 10 puntos de luz de tormenta, 1 uso de furia, 1 uso de forma salvaje, 1 uso de canalizar divinidad, o 1 uso de indomable o segundo viento.
+
+Puedes utilizar este rasgo una vez antes de un descanso largo, obtendrás un uso extra a nivel 14.
 
 **Tirulo**
 A 11º nivel,
 
-**Titulo** #Acabar 
+**Titulo** 
 A 15º nivel, 
 
-**Perpendicularidad de los honores**
-A 7º nivel, aprendes a aprovechar el poder de la tormenta alta para recargar la magia a tu alrededor. Como acción, elige cualquier número de criaturas a 10 pies de ti. Por cada una de esas criaturas restaura hasta 1/4 de tu nivel (redondeado hacia abajo) en niveles de ranura de conjuro, puntos de Ki, puntos de Hechicero, 1/4 de tu nivel * 10 puntos de luz de tormenta, 1 uso de furia, 1 uso de forma salvaje, 1 uso de canalizar divinidad, o 1 uso de indomable o segundo viento.
