@@ -1,37 +1,19 @@
 {
   "main": {
-    "id": "9d00eb87a6d571cd",
+    "id": "29e5a849cc1887e4",
     "type": "split",
     "children": [
       {
-        "id": "bc463082914e5055",
+        "id": "6b16577237a22b49",
         "type": "tabs",
         "children": [
           {
-            "id": "6441a54a98de1bcd",
+            "id": "f3edc4882a66d296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa05aa9dfd29ebfd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f98f6bbf27734ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
+                "file": "DnD/Hombrew/Clase_Simpatista/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b120d43306618599",
+    "id": "e136ea7256212fe0",
     "type": "split",
     "children": [
       {
-        "id": "47b87bb9223d78cb",
+        "id": "197fd351785b012c",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef2f8428c317bc1",
+            "id": "31f541de65b6d9f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +43,7 @@
             }
           },
           {
-            "id": "b414b61dda5fc6f7",
+            "id": "6574e024fee2a9aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +58,7 @@
             }
           },
           {
-            "id": "e280d8f908dd1537",
+            "id": "1ca0cdceb27e7b86",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 300
   },
   "right": {
-    "id": "81ed51e5738e06d3",
+    "id": "fcd556a0401cf7e7",
     "type": "split",
     "children": [
       {
-        "id": "00a308f12367a996",
+        "id": "98f31ec4b1bab2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "ebbd5617c18b17f9",
+            "id": "92534d7d27fe7069",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+                "file": "DnD/Hombrew/Clase_Simpatista/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +97,19 @@
             }
           },
           {
-            "id": "2e632493f597a9d8",
+            "id": "1b4b633d4247b436",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+                "file": "DnD/Hombrew/Clase_Simpatista/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fc625942bc824e66",
+            "id": "03eb38a537ed5ea0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,12 +120,12 @@
             }
           },
           {
-            "id": "28892a4d97294562",
+            "id": "b496f1f0f73a72de",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Hombrew/Clase_Caballero Radiante/Clase.md"
+                "file": "DnD/Hombrew/Clase_Simpatista/Ideas.md"
               }
             }
           }
@@ -162,59 +144,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6441a54a98de1bcd",
+  "active": "f3edc4882a66d296",
   "lastOpenFiles": [
-    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
     "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+    "DnD/Hombrew/Clase_Simpatista/Ideas.md",
+    "DnD/Hombrew/Clase_Simpatista",
     "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
-    "DnD/Hombrew/Subclase/Sorcerer.md",
-    "DnD/Hombrew/Subclase/Fighter.md",
-    "DnD/Hombrew/Subclase/Compendios.md",
+    "03 - Showcases & Templates/Templates/TTRPG notes/Button Action & Trait Templates.md",
+    "TTRPG notes/DnD Character Sheet.md",
+    "TTRPG notes/🗂️ TTRPG notes.md",
+    "03 - Showcases & Templates/Templates/TTRPG notes",
+    "03 - Showcases & Templates/Templates",
+    "03 - Showcases & Templates",
+    "TTRPG notes/Button Action & Trait Templates.md",
+    "templater-obsidian.md",
+    "TTRPG notes/Locale Template.md",
+    "TTRPG notes",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/prompt.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/project-browser.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/progressbar.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/progress-clocks.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/privacy-glasses.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/prioritize.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/potato-indexer.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/postgresql-obsidian.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/postfix.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/pomodoro-widget.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/pomodoro-timer.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/pomodoro-planner.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/poker.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/podnotes.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/podcast-note.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/pocketbook-cloud-highlight-importer.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins/plugins-galore.md",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Plugins",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/CSS Snippets",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions/Auxiliary Tools",
+    "obsidian-hub-main/02 - Community Expansions/02.05 All Community Expansions",
+    "obsidian-hub-main/02 - Community Expansions/02.04 Auxiliary Tools by Category",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/vscode-regex-find-replace.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/theme-submission-propose-changes.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/theme-submission-add-info.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/theme-submission-add-comma.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/theme-submission-PR-template.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/task-plugins-sorted.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/safe-mode-on.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/publish-pfsense-https-fe_8.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/publish-pfsense-https-fe_7.png",
+    "obsidian-hub-main/00 - Contribute to the Obsidian Hub/02 Attachments/publish-pfsense-https-fe_6.png",
     "DnD/Aetheria/Aetheria.canvas",
-    "DnD/Hombrew/Subclase",
-    "DnD/Hombrew/Hechizos/Rudeza.md",
-    "DnD\\Hombrew\\Hechizos",
-    "DnD\\Hombrew\\Clase_Caballero Radiante",
-    "DnD\\Aetheria",
-    "DnD/Hombrew/Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
-    "DnD/Aetheria/Culturas/Freshat.md",
-    "DnD/Aetheria/Culturas/Dimens.md",
-    "DnD/Aetheria/Culturas",
-    "DnD\\Aetheria\\Culturas",
-    "DnD/Aetheria/Bestiario/Chuls.md",
-    "DnD/Aetheria/Bestiario",
-    "DnD\\Aetheria\\Bestiario",
-    "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
-    "DnD/Aetheria/esquirlas-y-poderes-240408_1640.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/svnkit/licenses/TRILEAD-LICENSE",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/svnkit/licenses/SQLJET-LICENSE",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c3_f5.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c3_f4.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c3_f3.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c3_f2.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c3.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c2_f5.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c2_f4.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c2_f3.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c2_f2_only.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/sqldeveloper/extensions/oracle.datamodeler/doc/welcome/welcomeImages/welcome_r2_c2_f2.png",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.web/webkit.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.web/libxslt.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.web/libxml2.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.web/icu_web.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.media/libffi.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.media/glib.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.media/gstreamer.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.media/directshow.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.graphics/mesa3d.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/modules/javafx/windows-x64/legal/javafx.graphics/jpeg_fx.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/jdk/jre/legal/jdk.scripting.nashorn/joni.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/jdk/jre/legal/jdk.scripting.nashorn/double-conversion.md",
-    "DnD/Aetheria/Descargas/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/jdk/jre/legal/jdk.localedata/thaidict.md",
-    "DnD/Aetheria/Descargas/AlexRoche-GitObsidian-main/AlexRoche-GitObsidian-main/DnD/Aetheria/Regiones/Trildenclib/Erindor/Kaltara y su gente.canvas",
-    "DnD/Aetheria/Regiones/Trildenclib/Erindor/Kaltara y su gente.canvas"
+    "Dnd/Aetheria/Aetheria.canvas"
   ]
 }
