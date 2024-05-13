@@ -658,80 +658,23 @@ var import_obsidian3 = require("obsidian");
 // src/features/githubUtils.ts
 var import_obsidian = require("obsidian");
 var GITHUB_RAW_USERCONTENT_PATH = "https://raw.githubusercontent.com/";
-var isPrivateRepo = async (repository, debugLogging = true, personalAccessToken = "") => {
-  const URL2 = `https://api.github.com/repos/${repository}`;
+var grabReleaseFileFromRepository = async (repository, version, fileName, debugLogging = true) => {
+  const URL = `https://github.com/${repository}/releases/download/${version}/${fileName}`;
   try {
-    const response = await (0, import_obsidian.request)({
-      url: URL2,
-      headers: personalAccessToken ? {
-        Authorization: `Token ${personalAccessToken}`
-      } : {}
-    });
-    const data = await JSON.parse(response);
-    return data.private;
-  } catch (e) {
-    if (debugLogging)
-      console.log("error in isPrivateRepo", URL2, e);
-    return false;
-  }
-};
-var grabReleaseFileFromRepository = async (repository, version, fileName, debugLogging = true, personalAccessToken = "") => {
-  try {
-    const isPrivate = await isPrivateRepo(repository, debugLogging, personalAccessToken);
-    if (isPrivate) {
-      const URL2 = `https://api.github.com/repos/${repository}/releases`;
-      const response = await (0, import_obsidian.request)({
-        url: URL2,
-        headers: {
-          Authorization: `Token ${personalAccessToken}`
-        }
-      });
-      const data = await JSON.parse(response);
-      const release = data.find((release2) => release2.tag_name === version);
-      if (!release) {
-        return null;
-      }
-      const asset = release.assets.find(
-        (asset2) => asset2.name === fileName
-      );
-      if (!asset) {
-        return null;
-      }
-      const download = await (0, import_obsidian.request)({
-        url: asset.url,
-        headers: {
-          Authorization: `Token ${personalAccessToken}`,
-          Accept: "application/octet-stream"
-        }
-      });
-      return download === "Not Found" || download === `{"error":"Not Found"}` ? null : download;
-    } else {
-      const URL2 = `https://github.com/${repository}/releases/download/${version}/${fileName}`;
-      const download = await (0, import_obsidian.request)({
-        url: URL2,
-        headers: personalAccessToken ? {
-          Authorization: `Token ${personalAccessToken}`
-        } : {}
-      });
-      return download === "Not Found" || download === `{"error":"Not Found"}` ? null : download;
-    }
+    const download = await (0, import_obsidian.request)({ url: URL });
+    return download === "Not Found" || download === `{"error":"Not Found"}` ? null : download;
   } catch (error) {
     if (debugLogging)
       console.log("error in grabReleaseFileFromRepository", URL, error);
     return null;
   }
 };
-var grabManifestJsonFromRepository = async (repositoryPath, rootManifest = true, debugLogging = true, personalAccessToken = "") => {
+var grabManifestJsonFromRepository = async (repositoryPath, rootManifest = true, debugLogging = true) => {
   const manifestJsonPath = GITHUB_RAW_USERCONTENT_PATH + repositoryPath + (rootManifest ? "/HEAD/manifest.json" : "/HEAD/manifest-beta.json");
   if (debugLogging)
     console.log("grabManifestJsonFromRepository manifestJsonPath", manifestJsonPath);
   try {
-    const response = await (0, import_obsidian.request)({
-      url: manifestJsonPath,
-      headers: personalAccessToken ? {
-        Authorization: `Token ${personalAccessToken}`
-      } : {}
-    });
+    const response = await (0, import_obsidian.request)({ url: manifestJsonPath });
     if (debugLogging)
       console.log("grabManifestJsonFromRepository response", response);
     return response === "404: Not Found" ? null : await JSON.parse(response);
@@ -840,8 +783,7 @@ var DEFAULT_SETTINGS = {
   loggingPath: "BRAT-log",
   loggingVerboseEnabled: false,
   debuggingMode: false,
-  notificationsEnabled: true,
-  personalAccessToken: ""
+  notificationsEnabled: true
 };
 function addBetaPluginToList(plugin, repositoryPath, specifyVersion = "") {
   let save = false;
@@ -1323,15 +1265,6 @@ var BratSettingsTab = class extends import_obsidian5.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian5.Setting(containerEl).setName("Personal Access Token").setDesc(
-      "If you need to access private repositories, enter the personal access token here."
-    ).addText((text) => {
-      var _a;
-      text.setPlaceholder("Enter your personal access token").setValue((_a = this.plugin.settings.personalAccessToken) != null ? _a : "").onChange(async (value) => {
-        this.plugin.settings.personalAccessToken = value;
-        await this.plugin.saveSettings();
-      });
-    });
   }
 };
 
@@ -1500,24 +1433,16 @@ var BetaPlugins = class {
     const manifestJson = await grabManifestJsonFromRepository(
       repositoryPath,
       !getBetaManifest,
-      this.plugin.settings.debuggingMode,
-      this.plugin.settings.personalAccessToken
+      this.plugin.settings.debuggingMode
     );
     if (!manifestJson) {
-      if (reportIssues) {
+      if (reportIssues)
         toastMessage(
           this.plugin,
           `${repositoryPath}
 This does not seem to be an obsidian plugin, as there is no manifest.json file.`,
           noticeTimeout
         );
-        console.error(
-          "BRAT: validateRepository",
-          repositoryPath,
-          getBetaManifest,
-          reportIssues
-        );
-      }
       return null;
     }
     if (!("id" in manifestJson)) {
@@ -1555,28 +1480,24 @@ The version attribute for the release is missing from the manifest file`,
   async getAllReleaseFiles(repositoryPath, manifest, getManifest, specifyVersion = "") {
     const version = specifyVersion === "" ? manifest.version : specifyVersion;
     const reallyGetManifestOrNot = getManifest || specifyVersion !== "";
-    console.log({ reallyGetManifestOrNot, version });
     return {
       mainJs: await grabReleaseFileFromRepository(
         repositoryPath,
         version,
         "main.js",
-        this.plugin.settings.debuggingMode,
-        this.plugin.settings.personalAccessToken
+        this.plugin.settings.debuggingMode
       ),
       manifest: reallyGetManifestOrNot ? await grabReleaseFileFromRepository(
         repositoryPath,
         version,
         "manifest.json",
-        this.plugin.settings.debuggingMode,
-        this.plugin.settings.personalAccessToken
+        this.plugin.settings.debuggingMode
       ) : "",
       styles: await grabReleaseFileFromRepository(
         repositoryPath,
         version,
         "styles.css",
-        this.plugin.settings.debuggingMode,
-        this.plugin.settings.personalAccessToken
+        this.plugin.settings.debuggingMode
       )
     };
   }
@@ -1666,7 +1587,6 @@ You will need to update your Obsidian to use this plugin or contact the plugin d
         usingBetaManifest,
         specifyVersion
       );
-      console.log("rFiles", rFiles);
       if (usingBetaManifest || rFiles.manifest === "")
         rFiles.manifest = JSON.stringify(primaryManifest);
       if (this.plugin.settings.debuggingMode)
