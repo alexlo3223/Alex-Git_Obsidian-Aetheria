@@ -1,0 +1,1 @@
+![[Ikoros.jpg]]
