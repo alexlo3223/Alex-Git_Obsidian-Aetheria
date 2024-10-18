@@ -1,1 +1,0 @@
-![[Frornet.jpg]]
