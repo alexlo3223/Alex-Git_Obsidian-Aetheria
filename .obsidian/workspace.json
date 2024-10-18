@@ -11,8 +11,12 @@
             "id": "fe17dca9c04bd815",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md"
+              }
             }
           }
         ]
@@ -139,43 +147,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe17dca9c04bd815",
+  "active": "c54034628812c375",
   "lastOpenFiles": [
+    "El que todo lo ve.png",
+    "Olimpo/Dioses/Bereb.md",
+    "Olimpo/Demonios-Entidades/El que todo lo ve.md",
+    "Olimpo/Imagenes/Demonios-Entidades",
+    "Olimpo/Imagenes/Dioses",
+    "Olimpo/Imagenes/Dioses/Bereb.png",
+    "Olimpo/Aspectos/Coactus.md",
+    "Olimpo/Untitled",
+    "Olimpo/Demonios-Entidades",
+    "Olimpo/Dioses",
+    "Olimpo/Imagenes/Aspectos/Coactus.jpg",
+    "Olimpo/Aspectos",
+    "Olimpo/Imagenes/Aspectos",
+    "Dioses/Untitled.md",
     "Culturas/Dimens.md",
     "Bestiario/Abismoides.md",
     "Bestiario/Chuls.md",
     "Culturas/Freshat.md",
-    "Dioses/Flagranti.md",
-    "Dioses/Coactus.md",
-    "Dioses/Frornet.md",
-    "Dioses/Ikoros.md",
-    "Dioses/Orethus.md",
-    "Dioses/Imajenes/Flagranti.jpg",
+    "Olimpo/Aspectos/Flagranti.md",
+    "Olimpo/Aspectos/Frornet.md",
+    "Olimpo/Aspectos/Ikoros.md",
+    "Olimpo/Aspectos/Orethus.md",
+    "Olimpo/Imagenes/Aspectos/Flagranti.jpg",
     "Dioses/Imajenes/Dios_5.md",
-    "Dioses/Imajenes/Coactus.jpg",
-    "Dioses/Imajenes/Ikoros.jpg",
-    "Dioses/Imajenes/Frornet.jpg",
+    "Olimpo/Imagenes/Aspectos/Ikoros.jpg",
+    "Olimpo/Imagenes/Aspectos/Frornet.jpg",
     "7c02d58b5bd9662828c2cd526c9fd954.jpg",
-    "Dioses/Imajenes",
-    "Dioses/Imajenes/Orethus.jpg",
-    "Dioses",
+    "Olimpo/Imagenes",
+    "Olimpo/Imagenes/Aspectos/Orethus.jpg",
+    "Olimpo",
     "Culturas/Imagenes/Nutae/Nutae-Ajolotes.png",
     "Culturas/Imagenes/Regum",
     "Culturas/Imagenes/Freshat/Freshat-Herrero.png",
-    "Culturas/Imagenes/Nutae",
     "Culturas/Imagenes/Dimen/Dimen-Anciano.png",
-    "Culturas/Imagenes/Freshat",
-    "Culturas/Imagenes/Dimen",
-    "Culturas/Imagenes/Dimen/Dimen-Guerrero.png",
     "Aetheria.canvas",
     "Culturas/Nautae.md",
     "Culturas/Regum.md",
-    "Culturas/Imagenes",
     "aetheria-240818_2245.md",
     "Dnd/Aetheria/Culturas/Dimens.md",
-    "Dnd/Aetheria/Culturas",
-    "Dnd/Aetheria",
-    "Dnd",
     "Bienvenido a Aetheria.md",
     "Welcome.md"
   ]
