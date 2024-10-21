@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md",
+                "file": "Olimpo/Dioses/Reina cuervo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Reina cuervo"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md",
+                "file": "Olimpo/Dioses/Reina cuervo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Reina cuervo"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from El que todo lo ve"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "Olimpo/Demonios-Entidades/El que todo lo ve.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of El que todo lo ve"
             }
           }
         ]
@@ -147,11 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54034628812c375",
+  "active": "fe17dca9c04bd815",
   "lastOpenFiles": [
-    "Olimpo/Imagenes/Demonios-Entidades/El que todo lo ve.png",
-    "Olimpo/Dioses/Bereb.md",
+    "Olimpo/Dioses/Padre tormenta.md",
+    "Olimpo/Dioses/Señor de la mañana.md",
+    "Olimpo/Dioses/Reina cuervo.md",
+    "Pasted image 20241021185552.png",
+    "Olimpo/Imagenes/Aspectos/Padre tormenta.png",
     "Olimpo/Demonios-Entidades/El que todo lo ve.md",
+    "Olimpo/Imagenes/Demonios-Entidades/El que todo lo ve.png",
     "Olimpo/Imagenes/Demonios-Entidades",
     "Olimpo/Imagenes/Dioses",
     "Olimpo/Imagenes/Dioses/Bereb.png",
@@ -179,10 +199,7 @@
     "Olimpo/Imagenes",
     "Olimpo/Imagenes/Aspectos/Orethus.jpg",
     "Olimpo",
-    "Culturas/Imagenes/Nutae/Nutae-Ajolotes.png",
     "Culturas/Imagenes/Regum",
-    "Culturas/Imagenes/Freshat/Freshat-Herrero.png",
-    "Culturas/Imagenes/Dimen/Dimen-Anciano.png",
     "Aetheria.canvas",
     "Culturas/Nautae.md",
     "Culturas/Regum.md",
